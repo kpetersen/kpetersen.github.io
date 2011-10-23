@@ -56,7 +56,7 @@ a:hover, a:active {
   text-align: center;
   background-image: url("/images/header.jpg");
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-size: 100% 100%;
   margin: 0 0 0 0;
   padding: .25em .5em .5em .5em;
   font-size: 4em;
@@ -179,7 +179,7 @@ h2 {
   padding-top: 2px;
   background-image: url("/images/header.jpg");
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-size: 100% 100%;
   border-top: 2px solid black;
 }
 
