@@ -4,8 +4,7 @@ layout: default
 section: words
 ---
 
-Recent Blog Posts
-------------
+# Recent Blog Posts
 
 <ul id="posts">
 {% for post in site.categories.words %}
