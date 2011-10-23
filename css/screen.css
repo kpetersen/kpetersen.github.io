@@ -95,13 +95,49 @@ a:hover, a:active {
   background: #c6b8d2;
 }
 
+h2 {
+  margin-bottom: 2em;
+}
 #main {
   padding: 2em;
   margin-bottom: 5em;
+  width: 900px;
+  margin: 0 auto;
+}
+
+#photos .frame {
+  /* width:294px; */
+  padding:10px 10px 20px 10px;
+  border:1px solid #BFBFBF;
+  background-color:white;
+  /* Add box-shadow */
+  -webkit-box-shadow:2px 2px 3px #aaaaaa; /* Safari */
+  box-shadow:2px 2px 3px #aaaaaa;
+}
+#photos .rotate_left {
+  float:left;
+  -ms-transform:rotate(7deg); /* IE 9 */
+  -moz-transform:rotate(7deg); /* Firefox */
+  -webkit-transform:rotate(7deg); /* Safari and Chrome */
+  -o-transform:rotate(7deg); /* Opera */
+  transform:rotate(7deg);
+}
+#photos .rotate_right {
+  float:left;
+  -ms-transform:rotate(-8deg); /* IE 9 */
+  -moz-transform:rotate(-8deg); /* Firefox */
+  -webkit-transform:rotate(-8deg); /* Safari and Chrome */
+  -o-transform:rotate(-8deg); /* Opera */
+  transform:rotate(-8deg);
+}
+#photos .caption {
+  font-family: ambre;
+  text-align: center;
 }
 
 #signature {
   font-family: ambre;
+  clear: both;
 }
 #signature .doodle {
   font-family: krystyne_doodle;
