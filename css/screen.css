@@ -30,7 +30,7 @@ body {
 
 
 a {
-  color: inherit;
+  color: #c4870c;
   text-decoration: none;
 }
 
@@ -86,6 +86,7 @@ a:hover, a:active {
 .nav_tab a {
   font-size: 1.45em;
   padding: .1em 2em .1em 2em;
+  color: #000;
 }  
 #home_tab {
   background: #b3cfe3;
