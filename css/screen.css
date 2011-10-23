@@ -1,10 +1,14 @@
 @font-face {
-  font-family: snoflake;
-  src: url("/images/peasnoflake.ttf");
-}
-@font-face {
   font-family: ambre;
   src: url("/images/peaambre.ttf");
+}
+@font-face {
+  font-family: mumble_doodle;
+  src: url("/images/peamumbleandjen.ttf");
+}
+@font-face {
+  font-family: krystyne_doodle;
+  src: url("/images/peakrystynedoodles.ttf");
 }
 
 html {
@@ -21,6 +25,7 @@ body {
 
   margin: 0;
   padding: 0;
+  position: relative;
 }
 
 
@@ -90,6 +95,31 @@ a:hover, a:active {
   background: #c6b8d2;
 }
 
-
 #main {
+  padding: 2em;
+  margin-bottom: 5em;
+}
+
+#signature {
+  font-family: ambre;
+}
+#signature .doodle {
+  font-family: krystyne_doodle;
+  font-size: 1.5em;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-family: ambre;
+
+  padding-top: 1em;
+}
+
+#footer .doodle {
+  font-family: mumble_doodle;
+  font-size: 2em;
 }
