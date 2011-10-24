@@ -30,7 +30,7 @@ gym went something like this:
 Basically, what should have been a forty-five minute workout ended up being somewhere close to an hour and
 a half or even longer every single time. It was just so frustrating, so I quit. Afterwards, I started feeling 
 lazy and sluggish again, so I began looking for a workout I could do at home. Our good friend Doug used the 
-[C25k](http://www.c25k.com) running program (Couch to 5K) to start running and loved it, so I decided to give it a try. This was 
+[C25k](http://www.c25k.com) (Couch to 5K) running program to start running and loved it, so I decided to give it a try. This was 
 a month or so ago. Doug kept me honest; on a regular basis, he would ask me if I had started the program or
 not, and I would tell him the truth (no) and follow that with some excuse as to _why_ I hadn't started it yet. (A lot of it was
 that I was really hoping to get Scotty to run with me, but he really just doesn't want to do that. I can't honestly say that I
