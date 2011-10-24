@@ -50,7 +50,7 @@ starting the C25K program. It's okay if you have to walk the rest of the times t
 you are times you should be running. She isn't trying to do this with ten pounds of dead weight tucked under her right
 arm. We'll just try day 1, week 1 again tomorrow." 
 
-So that's what I did. Only "tomorrow" turned into four days later because my body hurt. However, today, I managed to run/walk 
+So that's what I did. Only "tomorrow" turned into four days later because my body hurt. However, today I managed to run/walk 
 2.26 miles in thirty minutes. I'm quite pleased with myself. I won't lie -- a few times I had to stop my [C25K app](http://itunes.apple.com/us/app/c25k-couch-to-5k/id301233668?mt=8)
 and hunker over to catch my breath, but I made it. What's more important, I intend to keep up with this. I really do! And I'm 
 going to post about it often to keep myself both honest and motivated, even if I'm the only person who ever reads this blog. 
