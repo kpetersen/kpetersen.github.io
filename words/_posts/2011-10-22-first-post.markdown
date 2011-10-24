@@ -41,7 +41,7 @@ Thursday, I did day 1, week 1 of the eight-week program. Unfortunately, the dogs
 SO cute, spinning in circles, wagging their tails, begging to go with me... They knew I was heading out for 
 a walk. Little did they know, this walk would include running. I caved and decided to take them along. Less
 than halfway through, Turbo sat down. He didn't just slow down. He sat down and gave me a look that clearly 
-said, "Woman, if you think we are going to continue this, you've got another think coming. Now, carry me!" What 
+said, "Woman, if you think we are going to continue this, you've got another thing coming. Now, carry me!" What 
 choice did I have? I picked the little guy up (thankfully Roger was still plugging along), and we turned around to head
 back home. If you've never tried running with a Yorkie tucked under your arm, I suggest you give it a shot some
 day. It's quite an experience. Actually, no... don't. You'll probably have the same reaction I did, which was, after
