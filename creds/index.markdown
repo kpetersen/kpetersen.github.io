@@ -6,6 +6,7 @@ section: creds
 
 # Site Credits
 
+* Title courtesy of our main man, Will (Shakespeare, for those of you who are not well-versed in the bard's genius)
 * Design by Katie
 * Code by Scott
 * Love and support offered from both Roger and Turbo
