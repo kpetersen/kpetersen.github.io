@@ -35,7 +35,7 @@ a month or so ago. Doug kept me honest; on a regular basis, he would ask me if I
 not, and I would tell him the truth (no) and follow that with some excuse as to _why_ I hadn't started it yet. (A lot of it was
 that I was really hoping to get Scotty to run with me, but he really just doesn't want to do that. I can't honestly say that I
 blame him... no one really _wants_ to intentionally make themselves miserable! HA!)
-I always felt guilty when I told Doug I hadn't started (even though he never made me feel that way), but last week,
+I always felt guilty when I told Doug I hadn't started (even though he never made me feel that way), but last week
 I could tell he didn't really think I was ever going to start the program. Well! I had to show him, right? (Don't worry -- I'm not competitive at all!) So last
 Thursday, I did day 1, week 1 of the eight-week program. Unfortunately, the dogs looked
 SO cute, spinning in circles, wagging their tails, begging to go with me... They knew I was heading out for 
