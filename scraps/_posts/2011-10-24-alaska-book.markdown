@@ -12,8 +12,10 @@ first few days of our trip exploring interior Alaksa. We stayed at the [Mt. McKi
 the [Denali Princess Lodge](http://www.princesslodges.com/denali-lodge.cfm), visited Talkeetna and Denali National Park, and rode the Denali Express all the
 way back to the Whittier cruise terminal when we were ready to begin our cruise. Our cruise lasted seven days, and during those days
 we saw Glacier Bay National Park (complete with glacier calving), killer whales swimming alongside our ship, visited Skagway, Juneau,
-and Ketchikan, and had the opportunity to walk on glaciers and watch black bears fish for salmon no more than twenty yards away. As I 
-said before, this trip was absolutely unforgettable.
+and Ketchikan, and had the opportunity to walk on glaciers and watch black bears fish for salmon from no more than twenty yards away. Then we spent
+a few days in Canada where the guys went fishing, the girls toured Vancouver, and we all went out to Victoria Island where we got to
+walk through the Butchart Gardens and visit downtown Victoria. 
+As I said before, this trip was absolutely unforgettable.
 
 Because I'm a scrapbooker at heart, there was no way I was going to pass up the chance to include at least some
 of the 3700 pictures we took on this trip in an album to share with others. I've recently gotten into digital scrapbooking with
