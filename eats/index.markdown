@@ -4,7 +4,7 @@ layout: default
 section: eats
 ---
 
-# Favorite Recipes #
+# Our Favorite Recipes #
 
 <ul id="posts">
 {% for post in site.categories.eats %}
