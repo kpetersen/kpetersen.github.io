@@ -1,4 +1,4 @@
 _site/*
 tmp/*
 
-**/.DS_Store
+.DS_Store
