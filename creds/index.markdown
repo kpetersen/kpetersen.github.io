@@ -10,7 +10,7 @@ section: creds
 * Design by Katie
 * Code by Scott
 * Love and support offered from both Roger and Turbo
-* Katie found the images for the backgrounds and the starfish at one of her favorite digital scrapbooking sites, [Gingerscraps](http://store.gingerscraps.net).
+* Katie found the images for the backgrounds and the seashells at one of her favorite digital scrapbooking sites, [Gingerscraps](http://store.gingerscraps.net).
   The images come from a package called ["Poetry of the Sea,"](http://store.gingerscraps.net/Poetry-of-the-Sea.html) designed by [Marie H designs](http://mariehdesignsscrap.blogspot.com/)
 * Site created with [Jekyll](http://jekyllrb.com)
 * Site hosted by
