@@ -161,4 +161,6 @@ Scott
 Somehow, we managed to find a middle ground on everything (except the buck teeth) and end up with what we think is a pretty spiffy site.
 We are still playing with it, still learning the ins and outs of web design, but it's not a bad start. I'm learning more each day about
 this programming business, and Scotty is really enjoying the challenges that web design programming is offering compared to the programming
-he does on a daily basis. Plus, it's fun having a project with which we *both* enjoy playing!!!!
+he does on a daily basis. Plus, it's fun having a project with which we *both* enjoy playing! We have some plans lined up for the site, first up being organizing the recipes and adding a place for comments on the blog
+and on the recipes. Once comments are up and running (hopefully very soon!), please let us know if there's some way we can make the website even better. 
+As I have said before, this is a first for us! :)
