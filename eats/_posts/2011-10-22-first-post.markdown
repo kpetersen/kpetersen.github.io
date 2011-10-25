@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Macaroni and Cheese
+title: Macaroni & Cheese
 ---
 
-# Macaroni and Cheese
+# Macaroni & Cheese
 We absolutely love macaroni and cheese. Katie is kind of a snob about it, though. 
 She doesn't much care for things like meat, bread crumbs, or stinky cheese in her
 dish. Scotty completely agrees on the bread crumbs and stinky cheese, though he's 
