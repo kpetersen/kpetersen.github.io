@@ -22,4 +22,6 @@ of the 3700 pictures we took on this trip in an album to share with others. I've
 [Heritage Makers](www.heritagemakers.com), so I decided this would be the ideal project with which to start. I think it turned out
 magnificently, but feel free to judge for yourself:
 
+![AKcover](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/AlaskaCover.jpg =493x361)
+
 Click [HERE](http://www.heritagemakers.com/projectBrowserStandAlone.cfm?projectId=1918257&productId=9&projectSponsor=419825) to view my book!
