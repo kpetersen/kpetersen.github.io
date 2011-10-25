@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (10/24) This Body Was (not) Made for Running
+title: This Body Was (not) Made for Running
 ---
 
 This Body Was (not) Made for Running
