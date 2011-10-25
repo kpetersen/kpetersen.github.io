@@ -4,8 +4,7 @@ title: (10/24) This Body Was (not) Made for Running
 ---
 
 This Body Was (not) Made for Running
-===================
-
+==========
 I have a confession to make: In my mind, I am the world's greatest athlete. I can run for 
 miles and miles without ever having to stop to catch my breath or grab a drink of water. 
 I can do hundreds of push-ups, sit-ups, pull-ups -- you name it, I can do it. In 
