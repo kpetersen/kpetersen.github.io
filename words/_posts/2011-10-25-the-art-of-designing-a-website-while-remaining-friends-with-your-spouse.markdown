@@ -8,19 +8,25 @@ The Art of Designing a Website While Remaining Friends With Your Spouse
 ===================
 
 The conversation went something like this:
-Katie - "Hey, hon?"
-Scott (aka poor unsuspecting soul) - "Yeah?"
-Katie - "I'm sick of my Blogger site. I want a new blog."
-Scott - "Uh, huh. So get a different blog."
-Katie - "Well, you see... here's the thing. I kind of came up with a design I really want and I can't find anywhere that will let me
+Katie
+: "Hey, hon?"
+Scott (aka poor unsuspecting soul)
+: "Yeah?"
+Katie
+: "I'm sick of my Blogger site. I want a new blog."
+Scott
+: "Uh, huh. So get a different blog."
+Katie
+: "Well, you see... here's the thing. I kind of came up with a design I really want and I can't find anywhere that will let me
 use it."
-Scott - "Oooookaaaaaayyyyyyy. Let's have a look."
+Scott
+: "Oooookaaaaaayyyyyyy. Let's have a look."
 
 And thus began our journey into creating our very own -- and very first -- website (for those of you wondering, yes... it's this 
 one you're visiting right now). We (and by we I completely mean Scott) decided to use Github to host our site and Jekyll for the 
 programming. From there, it was a lot of this:
 
-K- "I want it higher."
+K - "I want it higher."
 S - "You want what higher?"
 K - "That! (pointing) Oooh, and can you rotate it? That would look neat!"
 S - "Rotate it? Woman, are you trying to kill me here?"
@@ -56,7 +62,7 @@ K - "It will look like my website has buck teeth. Is that really what you want, 
 S (laughing at my ridiculous face) - "It will NOT look like it has buck teeth. It will look cleaner, cripser...more organized." (I don't think those were his exact words, but his words were definitely to that effect)
 K - "It will look like it has buck teeth. That is final."
 S - "Fine. Then you're going to have a website with buck teeth. I'm doing the programming and I like it centered."
-K - "Fine!!!" (along with an exasperated sigh)
+K - "Fiiiinnnnneeeeee." (along with an exasperated sigh)
 
 and this...
 
@@ -66,3 +72,11 @@ S - "Where is this pet dragon?"
 K - "Oh, you know... around."
 S - "Oh, really?"
 K - "Yup. It's better not to ask questions."
+
+and a LOT of this...
+
+K - "Uh, Scotty??? I broke it."
+S - "Broke what?"
+K - "Whatever I was trying to do." (points to a lot of error messages on the screen)
+S - "Ah, yes you did. Good job!"
+K - "Fix it?? Please?" (with a very guilty smile)
