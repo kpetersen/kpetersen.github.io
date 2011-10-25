@@ -15,7 +15,7 @@ section: creds
 * Site created with [Jekyll](http://jekyllrb.com)
 * Site hosted by
   [Github (Fork me!)](http://github.com/kpetersen/kpetersen.github.com)
-* We found the really awesome handwriting fonts at [Fonts for Peas](http://kevinandamanda.com/fonts/fontsforpeas), a portion of [Kevin and Amanda](http://www.kevinandamanda.com), one of Katie's favorite blogs.
+* We found the really awesome handwriting fonts at [Fonts for Peas](http://kevinandamanda.com/fonts/fontsforpeas), a portion of [Kevin and Amanda](http://www.kevinandamanda.com), one of Katie's favorite blogs
 
 Also...if you don't want us to set our pet dragon on you, please pay close attention to the following:
 
