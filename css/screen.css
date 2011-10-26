@@ -10,6 +10,10 @@
   font-family: krystyne_doodle;
   src: url("/images/peakrystynedoodles.ttf");
 }
+@font-face {
+	font-family: danielle_renee;
+	src: url("/images/peadaniellerenee.ttf");
+}
 
 html {
 	font-family: Verdana, sans-serif;
@@ -28,6 +32,21 @@ body {
   position: relative;
 }
 
+dl {
+	overflow: hidden;
+	margin: 1em 1em 1em 5em;
+}
+dt {
+	float: left;
+	clear: left;
+	width: 3.5em;
+}
+dt:after {
+	content: " -";
+}
+dd {
+	margin-left: 4em;
+}
 
 a {
   color: #cc6600;
