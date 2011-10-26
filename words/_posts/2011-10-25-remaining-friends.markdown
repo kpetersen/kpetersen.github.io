@@ -114,7 +114,7 @@ Katie
 : "It will look like it has buck teeth. That is final."
 
 Scott
-: "Fine. Then you're going to have a website with buck teeth. I'm doing the programming and I like it centered."
+: "Fine. Then you're going to have a website with buck teeth. I'm doing the programming, and I like it centered."
 
 Katie
 : "Fiiiinnnnneeeeee." (along with an exasperated sigh)
