@@ -10,10 +10,11 @@ include our "Kitchen Experiments" (aka new recipes that turn out to be favorite 
 
 Also, we are working on a way to catagorize our recipes as "Appetizers," "Soups/Stews," "Main Courses," "Side Dishes," "Breads/Pastries," and "Desserts."
 Please bear with us as we figure out how best to do this.
+
 <ul id="posts">
 {% for post in site.categories.eats %}
   <li>
     <h3><a href="{{ post.url }}"> {{ post.title }} </a></h3>
   </li>
 {% endfor %}
-</ol>
+</ul>
