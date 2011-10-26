@@ -5,7 +5,7 @@ title: Beer Bread
 
 # Beer Bread
 A few nights ago, we were discussing with some friends how nothing beats the smell of bread baking in the oven (except, perhaps, 
-brownies). We began lamenting the fact that most bread takes a ridiculous amount of time to make when you consider the kneading, the 
+brownies). We began lamenting the fact that most breads take a ridiculous amount of time to make when you consider the kneading, the 
 rising, the kneading, the rising, the baking... Anyway, this brought to mind beer bread, an incredibly easy and (relatively-speaking) 
 QUICK bread that is super-yummy. Katie's mom made this on a regular basis using whatever beer she could find in the fridge (usually
 Budweiser). We prefer to use a more flavorful beer like Shiner, Blue Moon, or Fat Tire as it just seems to give it a better flavor. However, 
