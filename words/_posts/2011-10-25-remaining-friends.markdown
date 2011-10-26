@@ -13,7 +13,7 @@ Katie
 : "Hey, hon?"
 
 Scott
-: (aka poor unsuspecting soul) "Yeah?"
+: "Yeah?" (he was a poor, unsuspecting soul)
 
 Katie
 : "I'm sick of my Blogger site. I want a new blog."
