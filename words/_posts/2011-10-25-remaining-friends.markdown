@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Art of Designing a Website While Remaining Friends With Your Spouse
-published: false
+published: true
 ---
 
 The Art of Designing a Website While Remaining Friends With Your Spouse
@@ -12,8 +12,8 @@ The conversation went something like this:
 Katie
 : "Hey, hon?"
 
-Scott (aka poor unsuspecting soul)
-: "Yeah?"
+Scott
+: (aka poor unsuspecting soul) "Yeah?"
 
 Katie
 : "I'm sick of my Blogger site. I want a new blog."
@@ -28,7 +28,7 @@ use it."
 Scott
 : "Oooookaaaaaayyyyyyy. Let's have a look."
 
-And thus began our journey into creating our very own -- and very first -- website (for those of you wondering, yes... it's this 
+Thus began our journey into creating our very own -- and very first -- website (for those of you wondering, yes... it's this 
 one you're visiting right now). We (and by we I completely mean Scott) decided to use Github to host our site and Jekyll for the 
 programming. From there, it was a lot of this:
 
@@ -44,7 +44,8 @@ Katie
 Scott
 : "Rotate it? Woman, are you trying to kill me here?"
 
-and this...(Scott had spent quite a bit of time getting all of the layouts to fit nicely with the font I'd picked)
+and this...  
+(Scott had spent quite a bit of time getting all of the layouts to fit nicely with the font I'd picked)
 
 Katie
 : "You know... I don't think I like that font. Can we try a different one?"
@@ -106,8 +107,8 @@ Scott
 Katie
 : "It will look like my website has buck teeth. Is that really what you want, a buck-toothed website?" (proceeds to pretend to have really bad buck teeth and starts talking to Scott)
 
-Scott (laughing at my ridiculous face)
-: "It will NOT look like it has buck teeth. It will look cleaner, cripser...more organized." (I don't think those were his exact words, but his words were definitely to that effect)
+Scott
+: (laughing at my ridiculous face) "It will NOT look like it has buck teeth. It will look cleaner, cripser...more organized." (I don't think those were his exact words, but his words were definitely to that effect)
 
 Katie
 : "It will look like it has buck teeth. That is final."
@@ -120,8 +121,8 @@ Katie
 
 and this...
 
-Scott (reading the Creds page)
-: "I didn't know we had a pet dragon."
+Scott
+: (reading the Creds page) "I didn't know we had a pet dragon."
 
 Katie
 : "Mmmhmmm."
@@ -137,6 +138,9 @@ Scott
 
 Katie
 : "Yup. It's better not to ask questions."
+
+Scott
+: "I _like_ it."
 
 and a LOT of this as I became "better" at programming...
 
