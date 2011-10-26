@@ -33,7 +33,7 @@ like onion and celery)
 1. Put the carrots in the bottom of your CrockPot.
 1. Heat the olive oil in a pan and brown the meatballs on all sides. Remove meatballs from pan and place them on top of the carrots in
 your CrockPot.
-1. [Deglaze](http://www.reluctantgourmet.com/deglazing.htm) your pan with the red wine and add the onions and celery. Saute for about five minutes, until the veggies are nice and tender.
+1. Deglaze your pan with the red wine and add the onions and celery. Saute for about five minutes, until the veggies are nice and tender.
 1. Pour the **entire** contents of the pan over the meatballs. Mmmm!
 1. Pour the two cans of cream of mushroom soup over the top of everything -- make sure you cover the meatballs evenly. 
 1. Cook on "Low" for 7-9 hours or on "High" for 3 1/2 - 5 hours. 
