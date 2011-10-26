@@ -4,17 +4,36 @@ layout: default
 section: eats
 ---
 
-# Our Favorite Recipes #
+# Our Favorite Recipes
 We will try to add a new recipe every day or two, at least until most of our favorite recipes are posted up here. We will also 
 include our "Kitchen Experiments" (aka new recipes that turn out to be favorite dishes) along with all of the commentary -- and hilarity -- you'd expect from an experiment.
 
-Also, we are working on a way to catagorize our recipes as "Appetizers," "Soups/Stews," "Main Courses," "Side Dishes," "Breads/Pastries," and "Desserts."
-Please bear with us as we figure out how best to do this.
-
-<ul id="posts">
-{% for post in site.categories.eats %}
-  <li>
-    <h3><a href="{{ post.url }}"> {{ post.title }} </a></h3>
-  </li>
+## Appetizers
+{% for post in site.categories.appetizers %}
+* ### [{{post.title}}]({{post.url}})
 {% endfor %}
-</ul>
+
+## Breads
+{% for post in site.categories.breads %}
+* ### [{{post.title}}]({{post.url}})
+{% endfor %}
+
+## Soups
+{% for post in site.categories.soups %}
+* ### [{{post.title}}]({{post.url}})
+{% endfor %}
+
+## Entrees
+{% for post in site.categories.entrees %}
+* ### [{{post.title}}]({{post.url}})
+{% endfor %}
+
+## Sides
+{% for post in site.categories.sides %}
+* ### [{{post.title}}]({{post.url}})
+{% endfor %}
+
+## Desserts
+{% for post in site.categories.desserts %}
+* ### [{{post.title}}]({{post.url}})
+{% endfor %}
