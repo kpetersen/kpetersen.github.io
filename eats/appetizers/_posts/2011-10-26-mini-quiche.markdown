@@ -28,25 +28,23 @@ to make a full-sized quiche as well. It's PERFECT for parties!! (And the quiche 
 
 ## Directions
 1. Cut the pie crusts with a 3" cookie cutter (or glass tumbler) in such a way that you get eight rounds from each crust.
-
-![cutting](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/cutting.jpg)
+   
+   ![cutting](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/cutting.jpg)
 
 1. Pre-heat the oven to 375 degrees.
 1. Chop the ham, bell pepper, onion, and tomato together in your food processor until nicely shredded. (You can, of course, chop it all by hand but that takes forever!) Set aside.
 1. In a small bowl, toss together the cheese and the flour. Set aside.
 1. In a medium bowl, stir together the eggs, milk, salt, pepper, and nutmeg. Stir in the veggies and the ham. Add the cheese and flour mixture and mix well (I like to use my hand mixer for this).
-
-![mix](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/bowlmix.jpg)
+   
+   ![mix](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/bowlmix.jpg)
 
 1. Grease your muffin cups and gently press a dough circle into each cup. Fill -- almost to the top but not quite -- each mini pie crust with the quiche filling.
-
-![dough in cups](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/dough_in_tin.jpg)
-
-![filling in cups](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/filling_in_tin.jpg)
-
+  
+    ![filling in cups](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/filling_in_tin.jpg)
+  
 1. Bake for 12-14 minutes (until a pick inserted near the middle comes out clean). Let stand for a few minutes before popping out of tins and eating.
-
-![Yum](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/cooling.jpg)
+  
+    ![Yum](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/cooling.jpg)
 
 **You can turn this into a full-sized quiche by baking at 325 degrees for 40-45 minutes (again, until a pick inserted in the middle comes out clean). You might need to add a 
 pie crust cover after about 15 minutes to keep the top crust from burning.**
