@@ -17,15 +17,15 @@ of the page!
 1. 2 cups Bisquick mix
 
 ## Directions
-1. Pre-heat the oven to 400 degrees (if you're planning to cook immediately) 
+1. Pre-heat the oven to 400 degrees (if you're planning to cook immediately).
 1. Let the sausage get to room temperature as it mixes better.
 1. Mix together the sausage, cheese, and Bisquick in a large bowl.
-1. Drop by teaspoon on an ungreased cookie sheet.
+1. Roll into 1 to 1 1/2" balls and place on an ungreased cookie sheet.
 1. Bake for 10-12 minutes (watch carefully as they can burn very quickly!!)
 
 **If you have made the sausage balls and frozen them raw, follow these directions for baking:**
 
-1. Place the sausage balls *still frozen* on a cookie sheet and place them in the oven.
+1. Place the sausage balls *still frozen* on an ungreased cookie sheet and place them in the oven.
 1. Ste the oven temperature to 400 degrees and let it heat up with the sausage balls in there. 
 1. The sausage balls need to be in the oven for a total of 10-12 minutes (including heat-up time) -- remember to watch carefully
 as the balls can burn quickly.
