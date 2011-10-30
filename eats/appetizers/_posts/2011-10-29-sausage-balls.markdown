@@ -6,7 +6,7 @@ title: Sausage Balls
 # Sausage Balls
 While I don't normally like sausage, I can eat my weight in these sausage balls without thinking twice about it (at least until I 
 step on the scale the following day and cry a little). Scott's mom makes these for her world-famous family brunch (along with the [Cinnamon
-Pull-Apart Bread](http://worldsmyoyster.com/eats/breads/2011/10/26/cinnamon-bread.html)). I like to make up a batch of them and freeze them
+Pull-Apart Bread](/eats/breads/2011/10/26/cinnamon-bread.html)). I like to make up a batch of them and freeze them
 (raw) on a tray. Once frozen, I stack them in ziplock baggies, squeeze the air out, and keep them for those nights when the neighbors all 
 get together to play ping-pong and I want to take something yummy for snacks. Cooking directions for frozen sausage balls at the bottom 
 of the page!
