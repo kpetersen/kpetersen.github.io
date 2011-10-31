@@ -20,7 +20,7 @@ Angels sang. I was in my own little slice of Heaven. I nearly wept with joy, rig
 yourself, "Did she make it out without a pair of shoes?" Clearly you do not know me. I found myself a nice, sparkly pair of [TOMS](www.toms.com). I'd been 
 wanting a pair for quite some time but had, until yesterday, never been able to find what I wanted both in my size and actually available in-store. Rather than turn to online shopping, I
 simply continued to check every time I went into a store that sells TOMS. Once I had them in my possession, it was time to confess my purchase to Scotty. (My purse
-wasn't big enough to hide the shoes, and I thought it would look a bit suspicious if I stuffed the shoe box down the front -- or back -- of my shirt.) As soon as Scott saw the bag in my hand, I got the classic raised-eyebrow. I opened the bag and he laughed; I believe he
+wasn't big enough to hide the shoes, and I thought it would look a bit suspicious if I stuffed the shoe box down the front -- or back -- of my shirt.) As soon as Scott saw the bag in my hand, I got the classic raised-eyebrow. I opened the bag, and he laughed; I believe he
 said something to the effect of, "More shoes? Really? And glitter, too?" but he liked them. All was well with the world, and we left the mall.
 
 Now on to why I counted my shoes last night... I had been unpacking our shopping bags when Scott walked into the closet. He saw me staring at my wall of shoe boxes,
