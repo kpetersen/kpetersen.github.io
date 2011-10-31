@@ -5,7 +5,7 @@ title: Herbed Pork Loin
 
 # Herbed Pork Loin
 This past spring, we planted a ton of herbs, peppers and tomatoes in hopes that we'd have a wonderful selection of fresh yummies to
-include in our recipes, particularly because we love experimenting with different herbs. We didn't count on the hottest and dryest summer we've ever known, and we ended up losing a lot of things. 
+include in our recipes, particularly because we love experimenting with different herbs. We didn't count on the hottest and driest summer we've ever known, and we ended up losing a lot of things. 
 (For example: the only creature that ate any of our tomatoes was our mockingbird, and that was simply because it didn't care that
 they were dried out and shriveled on the vine. I seriously could not give them enough water to make it.) Thankfully, our rosemary, basil,
 thyme, and jalapenos survived, and we've been using them all summer in different recipes. (The thyme finally died at the beginning 
