@@ -1,0 +1,92 @@
+---
+layout: post
+title: A Blog Entry About My Weekend
+---
+
+A Blog Entry About My Weekend
+===================
+
+Sometimes I feel as though there's not enough interesting stuff in my life for me to justify having a blog. Don't get me wrong -- I had an absolutely wonderful weekend with our family this past weekend, but nothing seems to really
+pop out at me for a blog subject. The thing about a blog is that you have to make your personal experiences interesting enough for other people to want to read about them. Sometimes that's harder than you might think. I've spent 
+the last two days thinking, "Wow... I haven't written a blog entry since October 30. I really ought to get on the ball with this because I don't want to get out of the habit of blogging. What's happened that's worthy of an entire 
+blog entry, though?"
+
+I could write about my experience at the UT/Texas Tech game this weekend, but what do I say? ~ UT stomped Tech into the ground, much like they would have if Tech hadn't bothered to show up to the 
+game at all. In fact, it probably would have been less-embarrassing for Tech had they actually not shown up for the game. I'm just sayin'... ~ We had fabulous seats (at least I thought so) but didn't take sunscreen so there was a mad 
+dash to the souvenir shop in hopes of finding some. (We were successful in our endeavor, thankfully.) ~ I laughed at a sign in the ladies' restroom that said something along the lines of, "Sometimes trying to avoid touching the 
+toilet seat is a sport in and of itself." ~ I cried a little bit when paratroopers jumped in to kick off the game, carrying with them the US flag, the Texas flag, the UT flag, and the game ball. ~ I had as much fun watching the 
+three ladies sitting next to me as I did the football game itself. They were in town for a girls' weekend, and they were making the most of it. I don't know if they were serious football fans or not, but I definitely offended one 
+by not knowing the answer to her question: "What's the name of the UT cannon that they fire throughout the game?" Honestly, I'm not sure if it was my lack of an answer or the confused look on my face that offended her more... oh, well. For 
+those of you wondering, I looked up the answer when I got home. The cannon is aptly named Smokey the Cannon and is "operated and cared for by the Texas Cowboys, a University student organization. Smokey is fired each time the 
+Longhorns score, at every kick-off, and at the end of each quater." Thank you, [Wikipedia](http://en.wikipedia.org/wiki/Smokey_the_Cannon). ~ Or I could just post some pictures that I took at the game so you can see for yourself 
+what I saw for myself:
+
+![usflag](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2403.jpg)
+
+![texasflag](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2406.jpg)
+
+![gameball](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2398.jpg)
+
+![utflag](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2423.jpg)
+
+![flyover](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2427.jpg)
+
+![enteringfield](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2433.jpg)
+
+![kickof](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2439.jpg)
+
+![touchdown](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2448.jpg)
+
+![stadium](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2441.jpg)
+
+![us](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2466.jpg)
+
+I also thought I could blog about family day at Grant's fraternity but again, I wasn't sure what all I had to say. When he said they were going to cook for us, my first thought was, "Oh, my! Do they know how to cook?" When Grant clarified that they would be grilling burgers, 
+etc., my concerns disappeared. Of course guys know how to grill -- it's in their blood. In all seriousness, the guys hosted a lovely party for their families. (I'm sure lovely is precisely the world they'd want me to use here.) I'm so impressed with 
+what that group of young men has done with themselves. 
+
+Then I thought, Eureka! I'll blog about our evening at Main Event! It was, after all, a pretty epic evening. We watched the lowest-scoring football game ever(!) on a ridiculously large television screen while we ate dinner. Then we
+bowled. That was the most fun I've had in a long time. Grant has an amazing curve ball that is oh-so-much-fun to watch. Big Scott is the most serious, most meticulous bowler I've ever seen. He would stand perfectly still for up to a 
+minute before actually bowling, concentrating on his game. Scotty is just plain good; he had the highest score in both games! Billie is a great bowler, though she didn't really get the chance to let loose because her elbow was hurting.
+(We are still sorry about that!!!!) I think, had her elbow not hurt, that she would have given Scotty a serious run for his money. I demand a rematch!! And then there was my exemplary bowling -- let's see, I stepped on the foul line and 
+the whole thing buzzed at me and took my turn away, and I bowled a 62. HOWEVER... I definitely had the most enthusiasm in the group (as I was told by several people), and I definitely had a wonderful time. I really love to bowl; I
+am just really terrible at it! HA! After we bowled, we moved to the pool tables. The three guys are, of course, very good at pool! Bille and I evened things out and someday the guys might let us play with them again... it's doubtful, but we shall remain 
+hopeful nonetheless. There was a lot of laughter, a lot of smiles, and a lot of fun had by all.
+
+And then, of course, there was Billie's and my shopping trip to Barton Creek Mall that resulted in some fabulous new clothes for both of us. We had a blast trying on clothes, laughing at some of the things we tried on and loving 
+others. Here are a few items I brought home:
+
+I got the top sweater, and I do not intend to wear it with something striped underneat it like the model in the picture. I got a brown tank that looks much better:
+
+![cape](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/loftsweater2.jpg)
+
+Again, I got only the top sweater here. I have a dozen different tops I can wear under it!
+
+![cowl](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/loftsweater.jpg)
+
+The striped sweater goes over the teal tank:
+
+![stripe](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/aestripe.jpg)
+
+![tealtank](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/aeteal.jpg)
+
+The purple sweater goes over the cream tank:
+
+![purple](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/aepurple.jpg)
+
+![creamtank](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/aewhite.jpg)
+
+This pink sweater is the same as the purple one. I didn't get a specific tank to go under it because I already had one at home:
+
+![pink](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/aepink.jpg)
+
+And this cream top goes fabulously under a super-cute navy cardigan I got a few weeks ago:
+
+![tank](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/aeblouse.jpg)
+
+Of course, what would a shopping trip be without a stop at Williams-Sonoma?
+
+![chocolate](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/wshotchoc.jpg)
+
+So there you have it, folks...the blog I swore I'd never write: "Here's What I Did This Last Weekend." I promise not to do this again for a long, long time. I will
+work on finding good blog stories in my everyday life because 1) they are much more fun to write, and 2) I have no doubt that they are much more fun to read. :)
