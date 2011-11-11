@@ -24,7 +24,7 @@ entry you will actually find two different recipes for roasted new potatoes in h
 ## Ingredients for Spicy Roasted Potatoes (for two adults)
 1. 1/3 bag of new potatoes, quartered (you don't have to peel them)
 1. Olive oil
-1. [Jim's Killer Seasoning]()
+1. [Jim's Killer Seasoning](http://worldsmyoyster.com/eats/appetizers/2011/11/11/killer-seasoning.html)
 1. PAM or some other non-stick spray
 
 ## Directions
