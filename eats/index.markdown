@@ -5,8 +5,7 @@ section: eats
 ---
 
 # Our Favorite Recipes
-We will try to add a new recipe every day or two, at least until most of our favorite recipes are posted up here. We will also 
-include our "Kitchen Experiments" (aka new recipes that turn out to be favorite dishes) along with all of the commentary -- and hilarity -- you'd expect from an experiment.
+This is a collection of our favorite recipes. Every dish posted here has been tested and thoroughly enjoyed by both Scott and Katie. We hope you'll find some favorite recipes in here, too! :)
 
 ## Appetizers
 {% for post in site.categories.appetizers %}
