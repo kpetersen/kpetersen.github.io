@@ -25,7 +25,7 @@ caught that while it is a Mexican blend cheese, it's pre-seasoned with taco seas
 ## Directions
 1. Pre-heat the oven to 325 degrees.
 
-1. Mix the above ingredients together in a casserole dish and sprinkle the top with paprika.
+1. Mix the above ingredients together in a mixing bowl using a hand-held mixer (otherwise you'll never break up the cream cheese and get it mixed in). Spread evenly in a casserole dish and top with Paprika.
 
     ![prebaked](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2472.jpg)
     
