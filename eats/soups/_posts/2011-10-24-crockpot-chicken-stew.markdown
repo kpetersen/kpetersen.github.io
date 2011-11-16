@@ -6,7 +6,7 @@ title: Chicken Stew - CrockPot Recipe!
 # Chicken Stew - CrockPot Recipe!
 We experienced the hottest summer on record this year, which put a lot of soup and stew recipes on the back burner for quite some
 time. Thankfully, the much-anticipated, much-prayed for, much-welcomed cooler weather finally arrived, reuniting us once again 
-with some beloved cooler-weather recipes. This particular one happens to be a throw-together meal (those are big in both of our families because it means they are easy but taste oh-so-good) that Katie's mom used to make
+with some beloved cooler-weather recipes. This particular one happens to be an adaptation of a stew recipe that Katie's mom used to make
 frequently when Katie still lived at home. It's an easy recipe, and you can add or subtract ingredients based on your personal
 preferences to create your own perfect stew. 
 
