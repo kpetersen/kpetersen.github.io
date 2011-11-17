@@ -10,10 +10,6 @@
   font-family: krystyne_doodle;
   src: url("/images/peakrystynedoodles.ttf");
 }
-@font-face {
-	font-family: danielle_renee;
-	src: url("/images/peadaniellerenee.ttf");
-}
 
 html {
 	font-family: Verdana, sans-serif;
@@ -216,4 +212,72 @@ h2 {
   font-family: mumble_doodle;
   font-size: 2em;
   line-height: 1em;
+}
+
+/* iPhone */
+@media only screen and (max-device-width: 480px) {
+	body {
+		-webkit-text-size-adjust:none;
+		font-family:Helvetica, Arial, Verdana, sans-serif;
+  }
+  
+  div {
+		clear: both !important;
+		display: block !important;
+		width: 100% !important;
+		float: none !important;
+		margin: 0 !important;
+		padding:0!important;
+		position: static !important;
+	}
+	
+	#header {
+		position: static !important;
+	}
+	h1,h2,h3,h4 {
+		font-size: 1.5em !important;
+	}
+	
+	#nav li {
+		margin: 0 !important;
+	}
+	#nav li a {
+		display: block;
+		text-align: center;
+	}
+	
+	#main {
+		padding: 0 5px !important;
+		width: auto !important;
+	}
+	
+	/* difficult bits for a phone */
+	#footer, #photos, #header img {
+		display: none !important;
+	}
+	
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+}
+
+/* iPad */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+	#header {
+		position: static !important;
+	}
+	#footer {
+		display: none !important;
+	}
+	
+	#header h1 {
+		font-size: 2em !important;
+	}
+	
+	#main {
+		padding: 0 10px !important;
+		width: auto !important;
+		margin-top: 0 !important;
+	}
 }
