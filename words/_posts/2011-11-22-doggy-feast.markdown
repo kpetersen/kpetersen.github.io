@@ -9,6 +9,7 @@ A Doggy-licious Thanksgiving Feast
 ![feast](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2482.jpg)
 
 ![feast2](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2481.jpg)
+
 (Why, yes, I _did_ take the time to set the table with a placemat, wine glass, and napkin. Thank you for noticing!)
 
 This is what happens when I go to Target alone and the pharmacist asks me to return in five-seven minutes because my prescription isn't ready yet. With nothing to do, I began to wander the 
