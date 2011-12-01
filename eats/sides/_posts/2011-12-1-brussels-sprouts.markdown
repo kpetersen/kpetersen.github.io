@@ -19,7 +19,8 @@ is one of those recipes. It's a pretty basic saute with a bit of lemon to bring 
 1. Heat up 3 Tbsp olive oil in a saute pan that has a lid (medium heat).
 1. Place the sprouts cut-side down in the heated oil, season with salt and pepper, and drizzle a bit more olive oil over the sprouts. 
 1. Cover the sprouts and let them cook for about three minutes. 
-1. Open the lid, sprinkle some water on the sprouts, return the cover, and cook for another three minutes. 
-1. Remove the lid and stir the sprouts with a spatula. You want them to be caramelized (turning brown on the parts that were facing down). Cook, stirring, until the sprouts
+1. Remove the cover, sprinkle some water on the sprouts, return the cover, and cook for another three minutes. 
+1. Remove the cover and stir the sprouts with a spatula. You want them to be caramelized (turning brown on the parts that were facing down). Cook uncovered, stirring, until the sprouts
 are fork-tender. 
-1. Empty sprouts into a bowl and squeeze the lemon juice over them. Stir so they are evenly coated and serve hot!
+1. Empty sprouts into a bowl and squeeze the lemon juice over them. 
+1. Stir so they are evenly coated and serve hot!
