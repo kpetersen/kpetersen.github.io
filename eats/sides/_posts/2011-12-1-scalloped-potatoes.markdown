@@ -32,7 +32,7 @@ I had.
 done with a sharp knife, but a mandolin is SO much easier!) Once you have the potatoes peeled, you can stick them in a pot of water to keep them from browning. Go ahead 
 and slice the onion now, too. It needs to be sliced equally thin, about 1/16" per slice.
 
-    ![sliced](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0927.jpg)
+  ![sliced](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0927.jpg)
 
 1. Rub down the inside of a gratin dish (2 1/2 - 3 quart) with the peeled clove of garlic. (I smashed mine just the slightest bit to get it to open up and let out some juices. It seemed to 
 work quite well.)
@@ -42,7 +42,7 @@ work quite well.)
 1. In a skillet over low heat, cook the onion in the 2 Tbsp olive oil until tender, seasoning well with salt and 
 pepper. Once tender, remove the onions from the heat and stir in the thyme leaves. Set aside.
 
-    ![onions](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0930.jpg)
+  ![onions](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0930.jpg)
 
 1. In a small saucepan, heat the milk and cream together until they are just simmering. (Stir often to keep it from frying to the bottom of the pan.)
 
@@ -50,7 +50,7 @@ pepper. Once tender, remove the onions from the heat and stir in the thyme leave
 little at a time until fully-incorporated. Return the pan to the heat and bring the contents to a gentle boil. Cook for 3-5 minutes (until it has thickened), stirring 
 constantly. Remove from heat. 
 
-    ![cream](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0931.jpg)
+  ![cream](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0931.jpg)
 
 1. Dry out your potatoes (if you've had them in water) and layer one-third of the russet and sweet potato slices in the gratin dish. Season with salt, pepper, and a few light sprinkles of nutmeg. 
 
@@ -61,13 +61,13 @@ constantly. Remove from heat.
 1. Repeat these layers two more times (so you have potatoes, onions, cream, potatoes, onions, cream, potatoes, onions, cream), ending with the cream on top. (It's okay if 
 the cream doesn't cover everything/reach all the way to the top. Just get as much covered as you can.)
 
-    ![beforecooking](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0934.jpg)
+  ![beforecooking](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0934.jpg)
 
 1. Bake uncovered for 45 minutes. Increase the oven temperature to 425 degrees and bake 10-15 minutes more (until the dish becomes a bubbly, golden crusty brown on top, and the
 potatoes are fork-tender). Remove from the oven and let stand a few minutes before serving. 
 
-    ![ready](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0935.jpg)
+  ![ready](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0935.jpg)
 
 These potatoes go really well with [sauteed Brussels sprouts](http://worldsmyoyster.com/eats/sides/2011/12/01/brussels-sprouts.html) and a baked ham! YUM!!
 
-    ![served](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0937.jpg)
+  ![served](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0937.jpg)
