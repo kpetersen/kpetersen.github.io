@@ -29,10 +29,10 @@ audience went wild, myself included. I screamed; I cheered; I clapped. I pinched
 The show was unlike anything I could have imagined. There was no band, only Garth Brooks and his guitar. He spent the first hour of the show telling stories of his childhood,
 moments that helped shape him as one of the greatest country music artists ever. He played a ton of songs, too, songs that inspired him to be the singer and songwriter that 
 he is today. I had no idea the man was so funny! Garth was so at-ease on stage. He knew he had us from the start, and he never let us down. He spent the second hour and a half 
-playing the songs that his fans all know and love -- "The River", "The Dance", "Callin' Baton Rouge", "That Summer", "Shameless", and so many, many more. About halfway 
+playing the songs that his fans all know and love -- "The River," "The Dance," "Callin' Baton Rouge," "That Summer," "Shameless," and so many, many more. About halfway 
 through his set of personal songs, the unimaginable happened. He finished a song then began talking about another famous country music star, one who had a bunch of Grammys
 and who was an inspiration to him. AND THEN HE BROUGHT HER ON STAGE!! That's right, Tricia Yearwood walked out on stage, and she and Garth sang a duet. And then she made me 
-cry. I absolutely could not believe my luck. She sang, with Garth Brooks playing guitar for her, "She's in Love with the Boy", that song I mentioned earlier about Katie 
+cry. I absolutely could not believe my luck. She sang, with Garth Brooks playing guitar for her, "She's in Love with the Boy," that song I mentioned earlier about Katie 
 and Tommy falling in love and getting married. Oh, I'm not so naive that I still believe that song is about me, but I do love the song, and it is still my all-time favorite 
 country music song. I just fill in the lyrics with, "Katie and Scott-y at the drive-in movie..." It was absolutely incredible. I felt like the luckiest person on earth, getting
 to see both Garth Brooks and Tricia Yearwood in concert.
