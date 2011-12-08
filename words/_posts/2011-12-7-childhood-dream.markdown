@@ -5,7 +5,7 @@ title: A Childhood Dream Came True!!! (Las Vegas Series Part 1 of 3)
 
 A Childhood Dream Came True!!! (Las Vegas Series Part 1 of 3)
 ===================
-Let's travel back in time to the fall of 1995, my fifth-grade year. Microsoft released Windows 95. Operation Desert Shield came to an end. The DVD was introduced. eBay was founded. OJ 
+Let's travel back in time to the fall of 1995, my fifth-grade year. Microsoft released Windows 95. Operation Desert Shield came to an end. The DVD was introduced.  Pierre Omidyar founded eBay. OJ 
 Simpson was found not guilty for the murders of his wife, Nicole, and friend, Ronald Goldman. The final _Calvin and Hobbes_ comic strip was published. And I, Katie Peetz, 
 got my first boom box for Christmas. Along with that boom box came my first-ever CDs (compact discs for you old folks). As a country music lover through-and-through, it 
 was no surprise that I received several Garth Brooks albums, a Rick Trevino album, and a Reba McEntire album. Oddly enough, no one ever gave me a Tricia Yearwood album, 
@@ -13,9 +13,9 @@ despite the fact that I was convinced I was supposed to marry a boy in my class 
 Katie and Tommy falling in love and getting married...
 
 Anyway, fast-forward to fall of 2011. I've made it through twenty-six years and still LOVE Rick Trevino, Reba McEntire, Garth Brooks and Tricia Yearwood. As the departure 
-date for our Las Vegas weekend grew closer, we began discussing show options with Scott's folks and aunt and uncle, our traveling companions. You cannot imagine my delight 
-when Scott's mom casually asked, "Hey... would you be interested in seeing Garth Brooks? I think that would be fun." WOULD I???? I couldn't believe my ears! (I thought about typing, "I nearly wet 
-myself out of sheer excitement at the prospect of seeing Garth," but I thought that would be uncool, true as it may be.) I acted all casual-liked, responding with something 
+date for our December Las Vegas weekend grew closer, we began discussing show options with Scott's folks and aunt and uncle, our traveling companions. You cannot imagine my delight 
+when Scott's mom casually asked, "Hey... would you be interested in seeing Garth Brooks? I think that would be fun." WOULD I???? I couldn't believe my ears! <del>I nearly peed myself out of 
+sheer excitement at the prospect of seeing Garth Brooks in concert.</del> I acted all casual-liked, responding with something 
 nonchalant like, "Oh, sure. That would be great. Does anyone else want to see him?" Apparently everyone else _did_ want to see him, and before I knew it, our tickets were 
 purchased and I was on my way to Vegas to see GARTH BROOKS -- LIVE IN CONCERT AT THE WYNN! 
 
