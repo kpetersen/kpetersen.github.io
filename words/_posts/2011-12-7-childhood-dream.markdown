@@ -17,8 +17,8 @@ Katie and Tommy falling in love and getting married...
 Anyway, fast-forward to fall of 2011. I've made it through twenty-six years and still LOVE Rick Trevino, Reba McEntire, Garth Brooks and Tricia Yearwood. As the departure 
 date for our December Las Vegas weekend grew closer, we began discussing show options with Scott's folks and aunt and uncle, our traveling companions. You cannot imagine my delight 
 when Scott's mom casually asked, "Hey... would you be interested in seeing Garth Brooks? I think that would be fun." WOULD I???? I couldn't believe my ears! <del>I nearly peed myself out of 
-sheer excitement at the prospect of seeing Garth Brooks in concert.</del> I acted all casual, responding with something 
-nonchalant like, "Oh, sure. That would be great. Does anyone else want to see him?" Apparently everyone else _did_ want to see him, and before I knew it, our tickets were 
+sheer excitement at the prospect of seeing Garth Brooks in concert.</del> I acted all casual-like, responding with something 
+nonchalant along the lines of, "Oh, sure. That would be great. Does anyone else want to see him?" Apparently everyone else _did_ want to see him, and before I knew it, our tickets were 
 purchased and I was on my way to Vegas to see GARTH BROOKS -- LIVE IN CONCERT AT THE WYNN! 
 
 We stepped into the theatre, a fairly intimate setting that holds only 1500 people at a time. Our seats were perfect. Our view was perfect. The guy next to me reeked of 
