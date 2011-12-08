@@ -1,10 +1,12 @@
 ---
 layout: post
-title: A Childhood Dream Came True!!! (Las Vegas Series Part 1 of 3)
+title: A Childhood Dream Came True on Las Vegas Boulevard! (Las Vegas Series Part 1 of 3)
 ---
 
-A Childhood Dream Came True!!! (Las Vegas Series Part 1 of 3)
+A Childhood Dream Came True on Las Vegas Boulevard! (Las Vegas Series Part 1 of 3)
 ===================
+Get your mind out of the gutter, people. :)
+
 Let's travel back in time to the fall of 1995, my fifth-grade year. Microsoft released Windows 95. Operation Desert Shield came to an end. The DVD was introduced.  Pierre Omidyar founded eBay. OJ 
 Simpson was found not guilty for the murders of his wife, Nicole, and friend, Ronald Goldman. The final _Calvin and Hobbes_ comic strip was published. And I, Katie Peetz, 
 got my first boom box for Christmas. Along with that boom box came my first-ever CDs (compact discs for you old folks). As a country music lover through-and-through, it 
