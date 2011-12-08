@@ -1,6 +1,7 @@
 ---
 layout: post
-title: A Childhood Dream Came True on Las Vegas Boulevard! (Las Vegas Series Part 1 of 3)
+title: A Childhood Dream Came True on Las Vegas Boulevard! 
+##(Las Vegas Series Part 1 of 3)
 ---
 
 A Childhood Dream Came True on Las Vegas Boulevard! (Las Vegas Series Part 1 of 3)
