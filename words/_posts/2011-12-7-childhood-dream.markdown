@@ -44,3 +44,5 @@ be forever grateful to Scott's folks for taking us to see Garth in concert, and 
 At least I have my ticket to prove I was there...
 
 ![garth](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/garth0001.jpg)
+
+(P.S. - I'm a lot annoyed with whatever moron at the ticket office defaced my ticket with a circle around the time and date.)
