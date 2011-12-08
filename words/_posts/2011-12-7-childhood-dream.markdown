@@ -39,7 +39,7 @@ to see both Garth Brooks and Tricia Yearwood in concert.
 
 One thing I loved most about the show was when Garth stopped singing for a moment and thanked us, the audience, for singing along with him. He said it's the greatest 
 compliment a musician can get, having an audience that knows all the words to his songs and actually wanting to sing along. I, of course, sang along with every single song he played. I had
-the time of my life that night. At the end of the show, Garth had us all stand up and sing along to "Friends in Low Places". It was an epic ending to an unforgettable show. I will 
+the time of my life that night. At the end of the show, Garth had us all stand up and sing along to "Friends in Low Places." It was an epic ending to an unforgettable show. I will 
 be forever grateful to Scott's folks for taking us to see Garth in concert, and my only regret is that the Wynn didn't allow us to take ANY pictures in the theatre or during the show. 
 At least I have my ticket to prove I was there...
 
