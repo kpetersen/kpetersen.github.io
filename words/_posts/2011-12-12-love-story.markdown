@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The (Second) Greatest Love Story of All
+title: The Second Greatest Love Story of All
 ---
 
-The (Second) Greatest Love Story of All
+The Second Greatest Love Story of All
 ===================
 "Now the birth of Jesus Christ was as follows: when His mother Mary had been betrothed to Joseph, before they came together she was found to be with child by the Holy Spirit. And Joseph her husband, being a righteous man and
 not wanting to disgrace her, planned to send her away secretly. But when he had considered this, behold, an angel of the Lord appeared to him in a dream, saying, 'Joseph, son of David, do not be afraid to take Mary as your wife; 
