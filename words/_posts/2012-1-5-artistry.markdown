@@ -150,7 +150,7 @@ don't leave me covered in BandAids and little cuts. :D
 
 In July, Jen and I attended a Creative Keepsakes convention in Houston. I had a great time shopping, taking classes, and meeting other like-minded women. One of the 
 booths that caught my interest was put on by a Heritage Makers consultant named [Kelly Doan](http://www.publishwithme.blogspot.com/). I was intrigued by how easy she
-made digital scrapbooking look. I'd been interested in it since 2009, when my friend and awesome photographer Mallory
+made digital scrapbooking look. I'd been interested in it since 2009, when my friend and awesome photographer (seriously -- check her out!!!) [Mallory Buck](http://mallorybuckphotography.com)
 did a photo shoot with Scott and me and then made our Christmas cards. I'd had no idea that you could do something like that without using pre-made designs like those 
 at Shutterfly, Snapfish, Walmart, etc. Now, Mallory is a PhotoShop genius; I needed to start somewhere easier, smaller, which is why I was so drawn to Heritage Makers. 
 I cannot tell you how much fun I've had with Heritage Makers since joining! Check out my [Scraps](http://worldsmyoyster.com/scraps/) page to see what all I've done. 
