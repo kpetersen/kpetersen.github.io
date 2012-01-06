@@ -165,7 +165,14 @@ I made our Christmas card; I did it with Heritage Makers, so I only had to make 
 
 ![card](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/card.jpg)
 
-And in December, I made a highlights book from our different trips to Las Vegas. You can check that out on my [Scraps](http://worldsmyoyster.com/scraps/) page, too!
+In December, I talked my friend Shannon into trying out [Painting With a Twist](http://www.paintingwithatwist.com/northaustin/) with me. Even though I hadn't painted 
+anything since middle school and she'd never picked up a paintbrush in her life, we thought it would be a lot of fun. Turns out it was more than a lot of fun. We had 
+an absolute blast. The instructor made the class so much fun, and even though you paint it all by yourself, no one ended up with a bad painting. I gave mine to my 
+brother's girlfriend for Christmas and forgot to take a decent picture of it, but here's my phone picture from the end of class:
+
+![painting](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/painting.jpg)
+
+Also in December, I made a highlights book from our different trips to Las Vegas. You can check that out on my [Scraps](http://worldsmyoyster.com/scraps/) page, too!
 
 That about does it for my 2011 creative endeavors. If you made it this far, thanks! I know it was a lot of reading and a lot of pictures, but it's nice for me to have
 all of this logged in chronological order. It's nice, too, to be able to share my love for creativity with my friends and family as well. 
