@@ -175,4 +175,4 @@ brother's girlfriend for Christmas and forgot to take a decent picture of it, bu
 Also in December, I made a highlights book from our different trips to Las Vegas. You can check that out on my [Scraps](http://worldsmyoyster.com/scraps/) page, too!
 
 That about does it for my 2011 creative endeavors. If you made it this far, thanks! I know it was a lot of reading and a lot of pictures, but it's nice for me to have
-all of this logged in chronological order. It's nice, too, to be able to share my love for creativity with my friends and family as well. 
+all of this logged in chronological order in such a way that I can share it with my friends and family! :)
