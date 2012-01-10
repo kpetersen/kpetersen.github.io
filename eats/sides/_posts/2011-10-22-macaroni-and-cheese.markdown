@@ -34,3 +34,10 @@ with the non-stick spray.
 dish from the oven and stir everything really well again. This makes sure that everything 
 bakes nice and evenly.**
 1. Arguably the most important step: ENJOY!!
+
+# A Variation on Mac 'n Cheese
+
+Using the above recipe, follow the directions exactly except when you're putting everything into the baking dish, add about 3/4 cup 
+chopped ham (pre-cooked) somewhere in the middle and continue with the rest of the ingredients, stirring when finished so it's all 
+mixed together nicely. It is absolutely wonderful. We do this when we have leftover ham or a hamsteak we need to eat before it 
+goes bad. 
