@@ -36,8 +36,9 @@ bakes nice and evenly.**
 1. Arguably the most important step: ENJOY!!
 
 # A Variation on Mac 'n Cheese
-
-Using the above recipe, follow the directions exactly except when you're putting everything into the baking dish, add about 3/4 cup 
+Even though I (Katie) don't usually want meat in my macaroni and cheese, I'll make an exception for ham as long as there's the perfect
+amount -- not too much, not too little. If you want to add meat to this macaroni and cheese, here's my recommendation. Using the above 
+recipe, follow the directions exactly except when you're putting everything into the baking dish, add about 3/4 cup 
 chopped ham (pre-cooked) somewhere in the middle and continue with the rest of the ingredients, stirring when finished so it's all 
 mixed together nicely. It is absolutely wonderful. We do this when we have leftover ham or a hamsteak we need to eat before it 
 goes bad. 
