@@ -51,6 +51,9 @@ little at a time until fully-incorporated. Return the pan to the heat and bring 
 constantly. Remove from heat. 
 
   ![cream](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0931.jpg)
+  
+**UPDATE: I have found, after making this dish several times, that I might make this cream recipe 1 1/2 times rather than just the single. I feel like I don't quite get 
+enough of the cream sauce by the time I get to the third layer. Try it and let me know what you think!**
 
 1. Dry out your potatoes (if you've had them in water) and layer one-third of the russet and sweet potato slices in the gratin dish. Season with salt, pepper, and a few light sprinkles of nutmeg. 
 
