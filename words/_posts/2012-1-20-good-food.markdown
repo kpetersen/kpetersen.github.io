@@ -30,4 +30,4 @@ my mousse turned out perfectly the first time and I now have a lot of eggs sitti
 Chocolate Pie). I didn't really follow a recipe when making my mousse; I got the general idea from a bunch of different things I read online and combined the stuff that I thought would work the best. [Here](http://worldsmyoyster.com/eats/desserts/2012/01/20/mousse.html) is what I did. I 
 served the mousse in crystal goblets with some home-made whipped cream and fresh berries on top. No one else licked their cups so I managed to refrain, but it was that good. Seriously. 
 
-All-in-all, the dinner was perfect. I couldn't have asked for better company, and the food was absolutely delicious. The only thing that could have made the night better would have been a blizzard. Eighty degrees outside in Jaunary -- SERIOUSLY???
+All-in-all, the dinner was perfect. I couldn't have asked for better company, and the food was absolutely delicious. The only thing that could have made the night better would have been a blizzard. Eighty degrees outside in January -- SERIOUSLY???
