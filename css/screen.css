@@ -157,6 +157,9 @@ h2 {
   -webkit-box-shadow:2px 2px 3px #aaaaaa; /* Safari */
   box-shadow:2px 2px 3px #aaaaaa;
 }
+#photos img {
+  border:1px solid #BFBFBF;
+}
 #photos .rotate_left {
   float:left;
   -ms-transform:rotate(7deg); /* IE 9 */
