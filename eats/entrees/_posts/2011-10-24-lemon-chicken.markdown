@@ -19,7 +19,7 @@ chicken strips)
 1. 1/2+ tsp Italian seasoning
 
 ## Directions
-1. Saute the chicken in a skillet in 2 Tbsp of the olive oil for about five minutes (until they are fully cooked).
+1. Sauté the chicken in a skillet in 2 Tbsp of the olive oil for about five minutes (until they are fully cooked).
 1. Remove the chicken from the pan and keep it warm on a plate.
 1. Reduce the heat a bit and add the garlic to the skillet and cook for about two minutes, stirring frequently. Make sure you don't burn the garlic... it cooks quickly.
 1. Stir in the other 2 Tbsp of olive oil, the lemon juice, the lemon zest, and the Italian seasoning. Stir until it is well-mixed.
