@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sauteéd Brussels Sprouts with Lemon
+title: Sauteed Brussels Sprouts with Lemon
 ---
 
-# Sauteéd Brussels Sprouts with Lemon
+# Sauteed Brussels Sprouts with Lemon
 I absolutely love Brussels sprouts, though Scotty can take or leave them (mostly leave, I'm afraid). I have found two ways to cook them that he will tolerate, though. This 
 is one of those recipes. It's a pretty basic sauté with a bit of lemon to bring out the flavor of the sprouts.  
 
