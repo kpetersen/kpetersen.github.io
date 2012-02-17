@@ -82,5 +82,5 @@ kind of hard to clean. Finally, it was the big test: the first bites. WOW! They 
 
 ![robby](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_1027.jpg)
 
-Scott and I were a bit more refined so we don't have fun eating pictures. HA! Okay, not really. But I snapped a picture of Robby trying to drink the last bits of his soufflé because it was funny. After Robby did everything but lick his ramekin, I asked him what he thought of the whole ordeal. His response? "I want to go back to Vegas 
+Scott and I were a bit more refined so we don't have fun eating pictures. HA! Okay, not really. But I snapped a picture of Robby trying to drink the last bits of his soufflé because it was funny. After we three did everything but lick our ramekins, I asked the guys what they thought of the whole ordeal. Scott said it was fun and delicious. Robby's response? "I want to go back to Vegas 
 now!!!!!!" Me, too, Paperclip... me, too! 
