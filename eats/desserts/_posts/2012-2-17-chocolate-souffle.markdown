@@ -5,7 +5,7 @@ title: Chocolate Souffle
 
 # Chocolate Souffle
 I found [this](http://eatocracy.cnn.com/2012/02/06/rise-to-the-occasion-with-homemade-chocolate-souffle/) recipe for a chocolate soufflé on CNN.com's [Eatocracy](http://eatocracy.cnn.com/?hpt=ea_ea)
-and had to give it a try. You can read all about our kitchen experiment (complete with pictures) [here](). 
+and had to give it a try. You can read all about our kitchen experiment (complete with pictures) [here](http://worldsmyoyster.com/words/2012/02/17/souffle-not-brulee.html). 
 
 ## Ingredients for Ramekins
 1. 6 Ramekins (four-inch)
