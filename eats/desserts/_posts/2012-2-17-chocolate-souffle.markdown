@@ -64,13 +64,13 @@ make sure you have your chocolate sauce and crème ready to go when the soufflé
 1. As soon as the soufflés come out of the oven, gently prick open the top center of each and pour in some of 
 the chocolate sauce. 
 
-## Ingredients for Crème Chantilly (to be made while souffles cook)
+## Ingredients for Creme Chantilly (to be made while souffles cook)
 1. 1/4 cup heavy whipping cream
 1. 1 tsp sugar
 1. 1 dash vanilla
 1. fresh berries
 
-## Directions for Crème Chantilly
+## Directions for Creme Chantilly
 1. Combine the first three ingredients in a bowl; beat until semi-stiff peaks form. Do not overbeat.
 1. Place a dollop of crème on each souffle, over the hole into which you poured the chocolate sauce. 
 1. Garnish with fresh berries if so desired and serve immediately. 
