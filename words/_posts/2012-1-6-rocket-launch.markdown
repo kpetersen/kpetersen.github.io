@@ -27,7 +27,7 @@ Beautiful, right?? Well... then the rocket came down... without ejecting a parac
 ![lawndart](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0418.jpg)
 
 We spent almost an hour just trying to find the rocket. Thankfully, Scott saw the fin can (basically the back foot of a six-foot tall rocket) sticking out of the ground right before we were about to call it quits. We were able 
-to salvage the part sticking out of the ground, but we spend the next two-ish hours carefully digging out small pieces of the first five feet that had very nicely compacted themselves upon impact. The boys were miserable. They'd 
+to salvage the part sticking out of the ground, but we spent the next two-ish hours carefully digging out small pieces of the first five feet that had very nicely compacted themselves upon impact. The boys were miserable. They'd 
 gone with us to find the rocket; there was absolutely no shade, and it was eighty degrees outside. At least I'd had the forethought to take water and their bowl with us for the search and rescue mission. They curled up in the shade
 created by our bodies while we dug and dug and dug. Scott lost all of his electronics hardware in this launch failure, so he's been working on rebuilding the equipment. I am not at all qualified to go into the details on that, 
 however, because most of it is completely over my head. That loss of electronics explains why today's launch was so low. Without electronics, you can't do dual deploy (a small parachute at apogee just to slow the fall a bit, followed by the main chute at around eight hundred feet to really slow it down so it doesn't crash-land), which means your main parachute ejects at apogee. You don't 
