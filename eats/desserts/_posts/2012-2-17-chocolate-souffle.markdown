@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Chocolate Soufflé
+title: Chocolate Souffle
 ---
 
-# Chocolate Soufflé
+# Chocolate Souffle
 I found [this](http://eatocracy.cnn.com/2012/02/06/rise-to-the-occasion-with-homemade-chocolate-souffle/) recipe for a chocolate soufflé on CNN.com's [Eatocracy](http://eatocracy.cnn.com/?hpt=ea_ea)
 and had to give it a try. You can read all about our kitchen experiment (complete with pictures) [here](). 
 
@@ -50,7 +50,7 @@ and your soufflé won't rise!!
 1. As soon as you remove the soufflés from the oven, you want to add the chocolate sauce and crème chantilly and serve, so 
 make sure you have your chocolate sauce and crème ready to go when the soufflés are done. 
 
-## Ingredients for Chocolate Sauce (to be made while soufflés cook)
+## Ingredients for Chocolate Sauce (to be made while souffles cook)
 1. 8 oz. bittersweet chocolate
 1. 1 Tbsp butter
 1. 1 cup milk
@@ -64,7 +64,7 @@ make sure you have your chocolate sauce and crème ready to go when the soufflé
 1. As soon as the soufflés come out of the oven, gently prick open the top center of each and pour in some of 
 the chocolate sauce. 
 
-## Ingredients for Crème Chantilly (to be made while soufflés cook)
+## Ingredients for Crème Chantilly (to be made while souffles cook)
 1. 1/4 cup heavy whipping cream
 1. 1 tsp sugar
 1. 1 dash vanilla
