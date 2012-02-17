@@ -10,7 +10,7 @@ getting to play with fire in my kitchen last night, both Robby and Scott were mo
 be eternally grateful. I don't care WHAT the author of this recipe says... one person cannot tackle this recipe alone. Admittedly this was a first for any 
 of us, but it took us an hour and a half and most of my dishes from start to first bite. (Oh, but what a first bite it was! Mmmmmmm!)
 
-Several weeks ago, I found a recipe on CNN's [Eatocracy](http://eatocracy.cnn.com/2012/02/06/rise-to-the-occasion-with-homemade-chocolate-souffle/) for a chocolate soufflé. You can read my recipe write-up on my blog right [here]().  
+Several weeks ago, I found a recipe on CNN's [Eatocracy](http://eatocracy.cnn.com/2012/02/06/rise-to-the-occasion-with-homemade-chocolate-souffle/) for a chocolate soufflé. You can read my recipe write-up on my blog right [here](http://worldsmyoyster.com/eats/desserts/2012/02/17/chocolate-souffle.html).  
 After reading the recipe, I knew I would have to try it. Just looking at the pictures reminded me so much of one of my most favorite places in the world, CIRCO in Las Vegas. It's this 
 wonderful little restaurant in the Bellagio hotel where we like to have dessert. They have the best soufflés!!! Anyway, back to my story...
 
