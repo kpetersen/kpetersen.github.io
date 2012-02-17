@@ -22,4 +22,4 @@ so I thought to myself, 'Why not boil my potatoes in heavy cream instead?' So th
 1. Bring to a boil and then simmer/low boil the potatoes and cook them for about twenty minutes (until very, very tender). 
 1. Remove potatoes with a slotted spoon and place them in a large mixing bowl.
 1. Add the butter and salt and pepper (to taste) to the potatoes and, using your mixer, mash the potatoes together with the butter. 
-1. Taste the potatoes and add butter, salt, pepper and, if you so desire, a bit of the cream from the pot, to reach your preffered taste and consistency. 
+1. Taste the potatoes and add butter, salt, pepper and, if you so desire, a bit of the cream from the pot, to reach your preferred taste and consistency. 
