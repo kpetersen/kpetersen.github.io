@@ -14,7 +14,7 @@ Several weeks ago, I found a recipe on CNN's [Eatocracy](http://eatocracy.cnn.co
 After reading the recipe, I knew I would have to try it. Just looking at the pictures reminded me so much of one of my most favorite places in the world, CIRCO in Las Vegas. It's this 
 wonderful little restaurant in the Bellagio hotel where we like to have dessert. They have the best soufflés!!! Anyway, back to my story...
 
-After a delicious dinner of mashed potatoes, Brussels sprouts and herbed pork loin, we decided to try out this recipe. Hilarity ensued, as did a bit of chaos, and we used most of the dishes in our kitchen, but ultimately we baked together as a team quite well. 
+After a delicious dinner of mashed potatoes, Brussels sprouts and herbed pork loin, we decided to try out this recipe. Hilarity ensued, as did a bit of chaos, but ultimately we baked together as a team quite well. 
 Here's a picture of my partners in crime:
 
 ![scottandrobby](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_0999.jpg)
