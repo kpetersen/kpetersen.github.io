@@ -35,13 +35,13 @@ dl {
 dt {
 	float: left;
 	clear: left;
-	width: 3.5em;
+	width: 4.5em;
 }
 dt:after {
 	content: " -";
 }
 dd {
-	margin-left: 4em;
+	margin-left: 5em;
 }
 
 a {
