@@ -12,8 +12,7 @@ spend at the computer. Here's a brief re-cap of what's been going on in my (our)
 of helping them do this, almost as much fun as hanging out there this summer is going to be! :)
 
 1. My little brother Robby is ENGAGED! That's right, people -- I'm gettin' me a seeeeeester. I couldn't be happier for the two of them. Elizabeth is a wonderful girl, and she makes Robby so incredibly happy. I can't wait for 
-all of the wedding fun. I remember when Robby called me about two years ago to tell me he'd started dating someone. The phone conversation went something like this (*NOTE: Robby's name has been changed to Robb until 
-Scott can fix the layout problem for setting up the conversation. That should be done sometime tonight, at which point I'll give my brother his full name back):
+all of the wedding fun. I remember when Robby called me about two years ago to tell me he'd started dating someone. The phone conversation went something like this:
 
 Katie
 : "Hey, little brother, what's up?"
