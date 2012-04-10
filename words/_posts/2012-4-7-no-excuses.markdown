@@ -18,13 +18,13 @@ Scott can fix the layout problem for setting up the conversation. That should be
 Katie
 : "Hey, little brother, what's up?"
 
-Robb 
+Robby 
 : "Hey, can you meet me in Waco Thursday night for dinner?"
 
 Katie
 : (slightly concerned thinking something is wrong) "Uhh, sure. I guess. Is everything okay??"
 
-Robb
+Robby
 : "Yeah. It's just that... see, I met a girl. Well, I've known her for a while, but we just started going out. And I really like her. We've been together for about two weeks now, and, well.. I was thinking the other day, crap! I really like this girl. I better find out if Katie likes her, 
 too."
 
