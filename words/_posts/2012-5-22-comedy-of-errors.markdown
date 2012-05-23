@@ -38,7 +38,7 @@ Orlando called to tell me Jose would be at my house between 10 and 12 that morni
 my truck. I'm trying to find someone to come get me and take me to your house. I'll call you back." Almost immediately after hanging up, Orlando called to see if I'd talked to Jose yet. He said that they'd call me back as 
 soon as they'd figured something out. Orlando wasn't able to go get Jose because was about to take his wife and new baby home from the hospital. Nearly two hours later, I called Orlando because I hadn't heard from them. 
 Orlando called Jose and then called me back to tell me that Jose was still waiting on a ride. Orlando said that there was no way they'd get out to my house that day because it was already 2 PM and they wouldn't have time to 
-do the job. He promised me that someone would be at my house on Wednesday to complete the job. At this point, I was obviously skeptical, and I told Orlando my thoughts on this. He said that I didn't need to worry; that Jose 
+do the job. He promised me that someone would be at my house on Wednesday to complete the job. At this point, I was obviously skeptical, and I told Orlando my thoughts on this. He said that I didn't need to worry, that Jose 
 and his crew would be at my house Wednesday morning to take care of the job. 
 
 Today is Wednesday. At 8:30 AM, I called Orlando who said that his dad and brother and crew had just left his house and were headed my way. Forty minutes later, I called Jose, who said they'd had to stop for concrete and would 
