@@ -38,5 +38,5 @@ remove all of the seeds. Chop the peppers into small pieces and set aside.
 
 ## Notes
 This casserole was delicious as leftovers, though it definitely got spicier after sitting in the fridge overnight. You can also make this casserole ahead of time and keep it in the fridge for up to three days before cooking 
-it. Because I was kind of making this up as I went along, I made the casserole mid-afternoon, covered it with foil, put it in the fridge, then stuck it in the oven when ready for dinner. Because I pulled it straight from the fridge when it was time to put it in the oven, 
+it. Because I was kind of making this up as I went along, I made the casserole mid-afternoon, covered it with foil, put it in the fridge, then stuck it in the oven when ready for dinner. Since I pulled it straight from the fridge when it was time to put it in the oven, 
 I let it sit in the oven while the oven heated up so I wouldn't break my glass dish. 
