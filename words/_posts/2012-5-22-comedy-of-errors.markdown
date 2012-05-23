@@ -9,7 +9,7 @@ Over the course of about a week, we received over five inches of rain here at ou
 Unfortunately, with that rain came sixty mile-per-hour winds that knocked down a section of our back fence. I say "knocked down," though in reality it's mostly just leaning into the neighbors' yard; it's still standing 
 enough to keep the boys contained in the yard when I let them out to play. Scott, who has already replaced several fence posts in our yard, looked at the fence, looked at me, and said, "Hire someone." Not knowing who in 
 the world I should hire to do such a thing, I turned to [Service Magic](www.servicemagic.com) for referrals. Service Magic referred two companies and a handy man service in our area who had excellent reviews and were legitimate 
-companies. I scheduled all three to come look at our fence and was impressed with both the quote and the eagerness for the job from one of the companies, Great Fences and Decks, as well as with their reviews, so I decided to go with them. They wanted a 75% deposit on the job 
+companies. I scheduled all three to come look at our fence and was impressed with both the quote and the eagerness for the job from one of the companies, [Great Fences and Decks](http://greatfencesanddecks.com), as well as with their reviews, so I decided to go with them. They wanted a 75% deposit on the job 
 (that translates into $700), which definitely sent up some red flags in my head. Despite my initial discomfort, we went ahead and paid the deposit and scheduled them to begin the following Tuesday (this was on a Friday). 
 
 
