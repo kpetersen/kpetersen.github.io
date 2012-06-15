@@ -4,7 +4,10 @@ title: Creamy Jalapeno Soup
 ---
 
 # Creamy Jalapeno Soup
-Don't let the name of this soup scare you -- it's not spicy, and it's oh-so-delicious!! 
+Don't let the name of this soup scare you -- it's not too spicy, and it's oh-so-delicious!! 
+
+NOTE: The first few bites, you think to yourself, "Hmm... this needs something," but then, after a few more bites, you think, "Huh, maybe 
+not. This is really, really good." I am still considering shredded chicken in it, though -- I'll test it out and let you know what I think. 
 
 ## Ingredients (4 servings)
 1. 8 oz fresh jalapeno peppers
