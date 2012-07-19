@@ -13,7 +13,7 @@ There was absolutely no reason why I couldn't make these cake balls on my own, a
 I made the cakes and they turned out beautifully. It was a true testament to the patience I rarely exhibit in the kitchen when all THREE cakes (one 9X13 and two 9" round) came out of their 
 pans as complete cakes. (Did I mention that I couldn't decide between chocolate and vanilla cake balls so I went ahead and made both? Yeah... I don't ever start small. Ever.) This brought to mind the great Cake Explosion of 2011. I had purchased, at a fabulous discount, an airplane cake pan, and I was super-excited to make an airplane cake 
 for my father-in-law for his birthday in a few weeks. Because I knew NOTHING about decorating a cake, Jen graciously offered to teach me, so we set up shop in her kitchen to do a test-run 
-on the airplane cake. Because it was for me, I chose a strawberry cake. Please note that strawberry cakes are red; this is important later in this story. When we took the cake out of the oven, 
+on the airplane cake. Since it was for me, I chose a strawberry cake. Please note that strawberry cakes are red; this is important later in this story. When we took the cake out of the oven, 
 I was SUPER-excited to take it out of the pan and see what it looked like. Several times, Jen told me to wait, that it was still too hot and wasn't ready to be flipped. Did I listen? Of course 
 not. I mentioned earlier how impatient I am in the kitchen. I grabbed my oven mitts (note to self: if mitts are required, the cake is too hot to flip) and flipped the cake over on to the 
 cooling rack. I whacked it a few times on the bottom for good measure and lifted the pan. Half of the cake was on the cooling rack. The other half of the cake was still in the pan. I kid you 
@@ -54,7 +54,7 @@ uneven coating of green goop. Later, when I FaceTimed Jen, laughing hysterically
 ![mess3](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_1318.jpg)
 
 At this point, all I could do was laugh. All Scotty could do was laugh. It was a disaster, and we both knew it. I informed Scotty that unless our future children want rum cakes for every. single. birthday.,
-they are getting something pre-made from a bakery. Why is it that I am (in my humble opinion), a darn-good cook and a fairly talented artist yet I can't frost or ice or decorate something edible to save 
+they are getting something pre-made from a bakery. Why is it that I am (in my humble opinion) a darn-good cook and a fairly talented artist yet I can't frost or ice or decorate something edible to save 
 my life?? This just doesn't make sense to me. Oh, well. Scotty and I decided to go ahead and eat two of the four and a half cake balls I'd managed to mostly coat in chocolate with the theory that if you 
 can't beat 'em, join 'em. Scotty took a bite. I was washing my hands. Scotty took another bite. I grabbed my cake ball. Scotty had an odd look on his face as he worked on swallowing his second bite. I 
 took my first bite. I made a funny face. "This is truly AWFUL!" I said, trying to decide if it was uncouth to spit out my cake ball into my palm in front of Scotty. I opted for the trash can instead. Scotty nodded and followed suit. We both started laughing 
