@@ -54,7 +54,7 @@ I bought some drawer pulls, some bolts, some nuts, and a roll of caution tape. W
 Robby and Elizabeth loved, loved the cake and have told me several times how useful the items we included have been around the house. Robby told me that I should make one of these for every single person I know who buys a house......
 I still have not replied to that text message. :)
 
-For those inquiring minds, here's what was included in the tool cake:
+*For those inquiring minds, here's what was included in the tool cake:*
 
 2 Home Depot canvas tool belts
 
