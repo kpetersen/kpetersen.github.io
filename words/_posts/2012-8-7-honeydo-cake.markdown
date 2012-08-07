@@ -29,7 +29,7 @@ We got home, unpackaged everything (hope they didn't want to return any of it!),
 Then we began the assembly process. There was a bit of trial and error as we figured out what would sit level where and how to create a tiered look for the "cake." We used Mod Podge to attach the brick-patterned paper to 
 the wooden letters. We rolled the shop rags into logs and secured them with rubber bands so we could stick them inside the tape rolls. I applied something Jen found on Pinterest to the canvas tool belts and ended up with this:
 
-![toolbelt](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_1288.jpg)
+![toolbelt](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_1288-1.jpg)
 
 ![toolbelt2](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_1289.jpg)
 
