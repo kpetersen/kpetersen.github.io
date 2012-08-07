@@ -56,24 +56,44 @@ I still have not replied to that text message. :)
 
 For those inquiring minds, here's what was included in the tool cake:
 2 Home Depot canvas tool belts
+
 10-piece set of plier/wrenches
+
 2 packages of Velcro cable ties
+
 1 tub of neon-colored zip ties in various sizes
+
 two packages of shop rags
+
 3 rolls of Duck Tape
+
 3 rolls of masking tape
+
 1 16' tape measure
+
 1 25' tape measure
+
 1 package of glow sticks
+
 1 100' medium-duty extension cord
+
 1 extension cord wheel
+
 1 mini can of WD 40 (cake topper, haha)
+
 2-pack of Leatherman tools
+
 2 mini LED flashlights
+
 1 set of socket wrenches
+
 1 package of disposable gloves
+
 1 vise-grip wrench
+
 1 box cutter without blades (I opened it up and the blades were all rusty and I threw them away. I meant to get them some more blades but forgot. Oops!)
+
 50-piece set of Dewalt drill bits
+
 1 square tool box with movable dividers
 
