@@ -46,7 +46,7 @@ Once I finished assembling the cake...
 
 ![cake2](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_2762.jpg)
 
-...I stool back and realized I was going to need some kind of base on which I could carry this thing. The following day, I returned to Home Depot and purchased a piece of plywood which the employees kindly cut in half for me. 
+...I stood back and realized I was going to need some kind of base on which I could carry this thing. The following day, I returned to Home Depot and purchased a piece of plywood which the employees kindly cut in half for me. 
 I bought some drawer pulls, some bolts, some nuts, and a roll of caution tape. With help from Scotty, our finished product looked like this:
 
 ![finished](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_1294.jpg)
