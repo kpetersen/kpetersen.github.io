@@ -58,7 +58,7 @@ I still have not replied to that text message. :)
 
 2 Home Depot canvas tool belts
 
-10-piece set of plier/wrenches
+10-piece set of pliers/wrenches
 
 2 packages of Velcro cable ties
 
