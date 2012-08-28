@@ -19,4 +19,4 @@ section: creds
 
 Also...if you don't want us to set our pet dragon on you, please pay close attention to the following:
 
-Everything on this site is copyright 2011 RocketMan, Inc. or the original author as linked above.  The code (HTML/CSS) is available on [Github](http://github.com/kpetersen/kpetersen.github.com), and is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).  All original content (everything under the words, eats, scraps, and images directories) is strictly copyrighted by RocketMan, Inc., all rights reserved.
+Everything on this site is copyright 2011-2012 RocketMan, Inc. or the original author as linked above.  The code (HTML/CSS) is available on [Github](http://github.com/kpetersen/kpetersen.github.com), and is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).  All original content (everything under the words, eats, scraps, and images directories) is strictly copyrighted by RocketMan, Inc., all rights reserved.
