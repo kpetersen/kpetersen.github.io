@@ -58,12 +58,12 @@ a:hover, a:active {
 }
 
 #header {
-  position: fixed;
   width: 100%;
-  margin: 0 auto;
-  top: 0;
-  left: 0;
-  z-index: 100;
+  /*position: fixed;*/
+  /*margin: 0 auto;*/
+  /*top: 0;*/
+  /*left: 0;*/
+  /*z-index: 100;*/
 }
 #header_bar {
   border-bottom: 2px solid #000;
@@ -137,8 +137,9 @@ h2 {
   width: 900px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 9em;
-  margin-bottom: 5em;
+  /*margin-top: 9em;*/
+  /*margin-bottom: 5em;*/
+  margin-bottom: 1em;
 }
 
 #photos {
@@ -198,9 +199,9 @@ h2 {
 }
 
 #footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
+  /*position: fixed;*/
+  /*bottom: 0;*/
+  /*left: 0;*/
   width: 100%;
   text-align: center;
   font-family: ambre;
@@ -213,12 +214,11 @@ h2 {
 
 #footer .doodle {
   font-family: mumble_doodle;
-  font-size: 2em;
-  line-height: 1em;
+  font-size: 1.7em;
 }
 
 /* iPhone */
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-width: 767px) {
 	body {
 		-webkit-text-size-adjust:none;
 		font-family:Helvetica, Arial, Verdana, sans-serif;
@@ -234,9 +234,6 @@ h2 {
 		position: static !important;
 	}
 	
-	#header {
-		position: static !important;
-	}
 	h1,h2,h3,h4 {
 		font-size: 1.5em !important;
 	}
@@ -266,14 +263,7 @@ h2 {
 }
 
 /* iPad */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
-	#header {
-		position: static !important;
-	}
-	#footer {
-		display: none !important;
-	}
-	
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
 	#header h1 {
 		font-size: 2em !important;
 	}
