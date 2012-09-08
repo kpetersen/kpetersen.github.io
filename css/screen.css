@@ -217,6 +217,21 @@ h2 {
   font-size: 1.7em;
 }
 
+/* sticky footer (http://stackoverflow.com/questions/4575826/how-to-push-a-footer-to-the-bottom-of-page-when-content-is-short-or-missing) */
+html, body {
+  height: 100%;
+}
+#wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -60px;
+}
+#footer, #push {
+  height: 60px;
+  clear: both;
+}
+
 /* iPhone */
 @media only screen and (max-width: 767px) {
 	body {

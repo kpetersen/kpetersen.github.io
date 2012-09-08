@@ -19,23 +19,26 @@
     </script>
   </head>
   <body>
-    <div id="header">
-      <div id="header_bar">
-        <img width="150" src="/images/dropshadow_shell.png" alt="Shell">
-        <h1>the world's my oyster</h1>
-        <img width="150" src="/images/dropshadow_shell_right.png" alt="Shell">
+    <div id="wrapper">
+      <div id="header">
+        <div id="header_bar">
+          <img width="150" src="/images/dropshadow_shell.png" alt="Shell">
+          <h1>the world's my oyster</h1>
+          <img width="150" src="/images/dropshadow_shell_right.png" alt="Shell">
+        </div>
+        <ul id="nav">
+          <li id="home_tab" class="nav_tab"><a href="/">home</a></li>
+          <li id="words_tab" class="nav_tab"><a href="/words">words</a></li>
+          <li id="eats_tab" class="nav_tab"><a href="/eats">eats</a></li>
+          <li id="scraps_tab" class="nav_tab"><a href="/scraps">scraps</a></li>
+          <li id="science_tab" class="nav_tab"><a href="/science">science</a></li>
+          <li id="creds_tab" class="nav_tab"><a href="/creds">creds</a></li>
+        </ul>
       </div>
-      <ul id="nav">
-        <li id="home_tab" class="nav_tab"><a href="/">home</a></li>
-        <li id="words_tab" class="nav_tab"><a href="/words">words</a></li>
-        <li id="eats_tab" class="nav_tab"><a href="/eats">eats</a></li>
-        <li id="scraps_tab" class="nav_tab"><a href="/scraps">scraps</a></li>
-        <li id="science_tab" class="nav_tab"><a href="/science">science</a></li>
-        <li id="creds_tab" class="nav_tab"><a href="/creds">creds</a></li>
-      </ul>
-    </div>
-    <div id="main">
-      {{content}}
+      <div id="main">
+        {{content}}
+      </div>
+      <div id="push"></div>
     </div>
     <div id="footer">
       <span class="doodle">D</span>
