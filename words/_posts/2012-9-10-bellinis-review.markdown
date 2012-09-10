@@ -30,8 +30,9 @@ and told us our table was ready. We were seated in the bar, which was great beca
 next to us who were lively and a lot of fun.) 
 
 ![scott and beer](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/IMG_1418.jpg)
-Please excuse the terrible quality of the pictures I took on this night. I was not in any way planning to be so impressed with my experience that I'd blog about it, so I only had my phone
-with me for pictures. Ooops! Next time, I'll be better-prepared. 
+
+(Please excuse the terrible quality of the pictures I took on this night. I was not in any way planning to be so impressed with my experience that I'd blog about it, so I only had my phone
+with me for pictures. Ooops! Next time, I'll be better-prepared.) 
 
 When our waitress Mandy (whom I totally recommend -- she was cheerful, knowledgable, friendly, and spot-on with all of her tables from my perspective) arrived to see if we needed anything 
 else to drink or wanted to start with an appetizer, we immediately knew what we wanted. While waiting for our table, we'd watched a couple of guys order some appetizers at the bar. The fried 
