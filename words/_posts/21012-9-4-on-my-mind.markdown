@@ -53,7 +53,7 @@ first police officer arrived on the scene. I'm so grateful that Daddy is a retir
 arrived and explain what happened. When the paramedics arrived, everyone stepped away to give them room to work and save the injured man some 
 dignity. It was when they put the man on a gurney and pushed him toward the helicopter that I began to shake and realized that I was crying. I wasn't sobbing uncontrollably, but I was sad. I think I 
 was in shock, really. I'd never witnessed anything like that before, and I pray that I never will again. It was horrible. I called Scott's mom because I needed to talk to someone who wasn't there, someone 
-who wasn't seeing what I was seeing and hearing what I was hearing. She was, at that moment, my Earth angel, and calmed me down so that I would stop shaking and crying. I stalked the news 
+who wasn't seeing what I was seeing and hearing what I was hearing. She was, at that moment, my Earth angel, and she calmed me down so that I would stop shaking and crying. I stalked the news 
 stations that night obsessively, wanting to know if the man, who had begun breathing again before the paramedics took him away, would be 
 able to survive his injuries. Every time I closed my eyes, I heard the loud "BANG!" and saw the truck rolling down the hill, then saw the man, 
 with his thin, jawline beard, lying there in the grass. Ten days later, we learned that his family had had to make that horrible decision to remove him from life support when it was determined 
