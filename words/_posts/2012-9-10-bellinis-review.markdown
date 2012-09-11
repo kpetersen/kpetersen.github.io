@@ -6,8 +6,8 @@ title: Bellini's Texas Grill - A Review
 Bellini's Texas Grill - A Review
 ===============
 About a year ago, we had a chance meeting with a man who told us that he was opening a new restaurant in Cedar Park soon and that we should make it a point to come visit. That restaurant is 
-[Bellini's Texas Grill](www.bellinistexasgrill.com), located just south of the Parmer Lane, 1431 intersection. Embarrassingly enough, it took us this long to actually check out Bellini's. 
-I don't usually do reviews on restaurants, but there was not a single thing at Bellini's with which Scotty and I were not impressed. 
+[Bellini's Texas Grill](http://www.bellinistexasgrill.com), located just south of the Parmer Lane, 1431 intersection. Embarrassingly enough, it took us this long to actually check out
+Bellini's. I don't usually do reviews on restaurants, but there was not a single thing at Bellini's with which Scotty and I were not impressed. 
 
 It's actually a bit of a funny story as to how we ended up there Wednesday night. We wanted to go somewhere fun to watch the Cowboys kick off the NFL season, and before Scotty had left work,
  we'd decided on Buffalo Wild Wings for lack of a better idea. While waiting on Scotty to get home, I decided that, while I was certain the atmosphere at BWW would be fun, I really don't like
