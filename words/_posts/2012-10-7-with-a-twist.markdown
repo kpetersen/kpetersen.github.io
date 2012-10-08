@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Laundry Room With a Twist
+title: A Laundry Room With a Twist!
 ---
 
-A Laundry Room With a Twist
+A Laundry Room With a Twist!
 ===============
 When we moved into our house three and a half years ago, it was yellow. Every room in the house was yellow, 
 and a different shade of yellow at that. I like yellow; in fact, I will go so far as to say that yellow is one 
