@@ -19,7 +19,7 @@ good all day!
 1. 1 sliced onion
 1. 6 Tbsp molasses (or maple syrup if you want them sweeter)
 1. 2 tsp salt
-1. 1.4 tsp black pepper
+1. 1/4 tsp black pepper
 1. 1/2 tsp dry mustard
 
 ## Directions
