@@ -39,4 +39,6 @@ a chance to visit my roomie in Cali in February, and... drumroll please...
 Let this be the official written announcement that we are putting our house on the market and are moving into the heart of Austin. There's already a sign in our yard that says, "Coming Soon!" and by 
 next week, our beautiful house, which I've loved for the last four years, will officially be for sale. EEEK! I'm so excited...and overwhelmed. 
 
+Here's to an exciting new year! Also, I didn't get our Christmas cards made this year, so I did new year cards instead. Here's a sneak peak:
+
 ![newyear](http://i1230.photobucket.com/albums/ee481/ptkatz/Blog%20Pictures/xmas2012_zpsd4bd29c9.jpg)
