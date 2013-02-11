@@ -22,7 +22,7 @@ Daddy
 
 Then our conversation turned toward the Grammys, at which point Daddy bowed out as he was being forced to 
 watch (his words, not mine) <i> Hello, Dolly! </i> by the female parental unit. Here are some highlights from 
-my conversation with Robby.
+my conversation with Robby...
 
 on Adele's choice of clothing:
 
