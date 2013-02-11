@@ -80,7 +80,7 @@ Me
 : Oh, that’s nice. Zac Brown is looking considerably less Amish now, receiving this award.
 
 Robby
-: Have you seen Amish Mafia?
+: Have you seen <i>Amish Mafia</i>?
 
 Me
 : No? I thought the Amish were a peaceful people.
