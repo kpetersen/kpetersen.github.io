@@ -31,6 +31,7 @@ Me
 Robby
 : OMG! She looks like an oriental rug.  
 
+<br/>
 
 Me
 : Rihanna looks like she is seizing on stage.
@@ -41,6 +42,7 @@ Robby
 Me
 : Seriously. Where’s Grumpy Cat when you need it?
 
+<br/>
 
 Robby
 : Carrie Underwood needs to stop screaming at me.
@@ -54,6 +56,7 @@ Robby
 Me
 : And not a lot of answers….
 
+<br/>
 
 Me
 : A sitar virtuoso. You don’t see a lot of those.
@@ -64,6 +67,7 @@ Me
 Robby
 : Man, a lot of people went six feet under last year. 
 
+<br/>
 
 Me
 : Oh, that’s nice. Zac Brown is looking considerably less Amish now, receiving this award.
@@ -81,6 +85,7 @@ fifteen years for his little beard-cutting gang activities.
 Me
 : Haters gon' hate. 
 
+<br/>
 
 a tirade on the guy covering “Your Song”:
 
@@ -95,6 +100,7 @@ Robby
 
 Robby
 : this sucks
+<br/>
 
 Cheers, y'all! :)
 
