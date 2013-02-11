@@ -20,7 +20,7 @@ Daddy
 on the Grammys:
 
 Me
-: What the hell is Adele wearing?
+: What the heck is Adele wearing?
 
 Scott
 : Was that once a couch?
@@ -53,6 +53,7 @@ Robby
 
 Me
 : And not a lot of answers….
+
 <br/>
 
 Me
@@ -63,6 +64,7 @@ Me
 
 Robby
 : Man, a lot of people went six feet under last year. 
+
 <br/>
 
 Me
@@ -75,8 +77,8 @@ Me
 : No? I thought the Amish were a peaceful people.
 
 Robby
-: No. Apparently they are a very cut-throat society. Er, cut-beard, it turns out. AHAHAHAHA. Homeboy got 
-fifteen years for his little beard-cutting gang activities. 
+: No. Apparently they are a very cut-throat society. Er, cut-beard, it turns out. AHAHAHAHA. Did you see homeboy got 
+fifteen years for his little beard-cutting gang activities? 
 
 Me
 : Haters gon' hate. 
@@ -94,6 +96,7 @@ Robby
 
 Robby
 : this sucks
+
 <br/>
 Cheers, y'all! :)
 
