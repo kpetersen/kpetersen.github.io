@@ -42,7 +42,6 @@ Me
 : Seriously. Where’s Grumpy Cat when you need it?
 
 <br/>
-
 Robby
 : Carrie Underwood needs to stop screaming at me.
 
@@ -64,8 +63,8 @@ Me
 
 Robby
 : Man, a lot of people went six feet under last year. 
-<br/>
 
+<br/>
 Me
 : Oh, that’s nice. Zac Brown is looking considerably less Amish now, receiving this award.
 
@@ -96,8 +95,8 @@ Robby
 
 Robby
 : this sucks
-<br/>
 
+<br/>
 Cheers, y'all! :)
 
 
