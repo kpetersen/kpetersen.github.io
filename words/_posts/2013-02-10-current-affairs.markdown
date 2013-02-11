@@ -1,7 +1,10 @@
 ---
 layout: post
-title: on Current Affairs
+title: My Family's Take on Current Affairs
 ---
+
+My Family's Take on Current Affairs
+=============
 
 There is nothing sacred in my family. Nothing. We live with the theory
 that if you can’t laugh about everything, you should probably stay far,
@@ -41,7 +44,7 @@ Me
 : Rihanna looks like she is seizing on stage.
 
 Robby
-: She keeps saying, “Staaaaaaaaaaaaaaaaaay” and all I can think is, “Gooooooooooooo.”
+: She keeps "singing", “Staaaaaaaaaaaaaaaaaay,” and all I can think is, “Gooooooooooooo.”
 
 Me
 : Seriously. Where’s Grumpy Cat when you need it?
