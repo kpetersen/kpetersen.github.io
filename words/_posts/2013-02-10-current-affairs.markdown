@@ -8,9 +8,12 @@ that if you can’t laugh about everything, you should probably stay far,
 far away from us. Last night I found myself discussing current affairs with my
 dad and brother, and here are some snippets from our conversations:
 
-Daddy: A helicopter crashed in California while filming a reality show. How’s that for reality? 
-Me: Yes, I saw that. Irony. It’s the opposite of wrinkly, which I’d imagine that chopper is now. 
-Daddy: You’re a sicko. 
+Daddy
+: A helicopter crashed in California while filming a reality show. How’s that for reality? 
+Me
+: Yes, I saw that. Irony. It’s the opposite of wrinkly, which I’d imagine that chopper is now. 
+Daddy
+: You’re a sicko. 
 
 on the Grammys:
 
@@ -58,7 +61,8 @@ fifteen years for his little beard-cutting gang activities.
 Me
 : Haters gon' hate. 
 
-a tirade on the guy covering “Your Song”
+a tirade on the guy covering “Your Song”:
+
 Robby
 : Elton John is freaking there
 Robby
