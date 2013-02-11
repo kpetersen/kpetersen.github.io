@@ -44,7 +44,7 @@ Me
 : Rihanna looks like she is seizing on stage.
 
 Robby
-: She keeps "singing", “Staaaaaaaaaaaaaaaaaay,” and all I can think is, “Gooooooooooooo.”
+: She keeps singing, “Staaaaaaaaaaaaaaaaaay,” and all I can think is, “Gooooooooooooo.”
 
 Me
 : Seriously. Where’s Grumpy Cat when you need it?
