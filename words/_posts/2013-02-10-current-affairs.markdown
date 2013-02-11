@@ -30,7 +30,6 @@ Me
 
 Robby
 : OMG! She looks like an oriental rug.  
-
 <br/>
 
 Me
@@ -41,7 +40,6 @@ Robby
 
 Me
 : Seriously. Where’s Grumpy Cat when you need it?
-
 <br/>
 
 Robby
@@ -55,7 +53,6 @@ Robby
 
 Me
 : And not a lot of answers….
-
 <br/>
 
 Me
@@ -66,7 +63,6 @@ Me
 
 Robby
 : Man, a lot of people went six feet under last year. 
-
 <br/>
 
 Me
@@ -84,7 +80,6 @@ fifteen years for his little beard-cutting gang activities.
 
 Me
 : Haters gon' hate. 
-
 <br/>
 
 a tirade on the guy covering “Your Song”:
