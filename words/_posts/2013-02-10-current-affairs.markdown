@@ -13,6 +13,7 @@ Me: Yes, I saw that. Irony. It’s the opposite of wrinkly, which I’d imagine 
 Daddy: You’re a sicko. 
 
 on the Grammys:
+
 Me
 : What the hell is Adele wearing?
 Scott
