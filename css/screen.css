@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  background-image: url("/images/page.jpg");
+  background-image: url("/images/green-paper.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -67,7 +67,7 @@ a:hover, a:active {
 }
 #header_bar {
   border-bottom: 2px solid #000;
-  background-image: url("/images/header.jpg");
+  background-image: url("/images/bright-pink-paper.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   text-align: center;
@@ -77,6 +77,26 @@ a:hover, a:active {
   vertical-align: middle;
   display: inline-block;
   margin-bottom: 1em;
+  position: relative;
+  z-index: 4;
+}
+#header img.pad {
+  position: relative;
+  width: 200px;
+  left: -175px;
+  bottom: -80px;
+  z-index: 2;
+}
+#header img.pad.flip {
+  left: 175px;
+}
+#header img.flip {
+  -moz-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: FlipH;
 }
 #header h1 {
 	display: inline-block;
@@ -109,7 +129,7 @@ a:hover, a:active {
   font-size: 1.45em;
   padding: .1em 0;
   color: #000;
-}  
+}
 #home_tab {
   background: #b3cfe3;
 }
@@ -238,7 +258,7 @@ html, body {
 		-webkit-text-size-adjust:none;
 		font-family:Helvetica, Arial, Verdana, sans-serif;
   }
-  
+
   div {
 		clear: both !important;
 		display: block !important;
@@ -248,11 +268,11 @@ html, body {
 		padding:0!important;
 		position: static !important;
 	}
-	
+
 	h1,h2,h3,h4 {
 		font-size: 1.5em !important;
 	}
-	
+
 	#nav li {
 		margin: 0 !important;
 	}
@@ -260,17 +280,17 @@ html, body {
 		display: block;
 		text-align: center;
 	}
-	
+
 	#main {
 		padding: 0 5px !important;
 		width: auto !important;
 	}
-	
+
 	/* difficult bits for a phone */
 	#footer, #photos, #header img {
 		display: none !important;
 	}
-	
+
 	img {
 		max-width: 100%;
 		height: auto;
@@ -282,7 +302,7 @@ html, body {
 	#header h1 {
 		font-size: 2em !important;
 	}
-	
+
 	#main {
 		padding: 0 10px !important;
 		width: auto !important;
