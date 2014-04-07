@@ -179,10 +179,11 @@ h2 {
 
 #photos {
   padding: 2em 2em;
-  margin-bottom: 1em;
   overflow: hidden;
   zoom: 1;
   display: block;
+  margin: 0 auto 1em auto;
+  width: 72%;
 }
 #photos .frame {
   /* width:294px; */
