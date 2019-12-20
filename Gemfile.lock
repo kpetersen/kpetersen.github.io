@@ -29,7 +29,7 @@ GEM
     maruku (0.6.0)
       syntax (>= 1.0.0)
     posix-spawn (0.3.6)
-    rack (1.4.1)
+    rack (1.4.7)
     syntax (1.0.0)
     thin (1.4.1)
       daemons (>= 1.0.9)
