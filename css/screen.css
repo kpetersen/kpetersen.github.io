@@ -256,7 +256,7 @@ h2 {
 /* avoid wasting 2/3 of the first page on frogs */
 @media print {
   #header {
-    display: none;
+    display: none !important;
   }
 }
 
