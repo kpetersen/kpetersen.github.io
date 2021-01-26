@@ -253,6 +253,13 @@ h2 {
   font-size: 1.7em;
 }
 
+/* avoid wasting 2/3 of the first page on frogs */
+@media print {
+  #header {
+    display: none;
+  }
+}
+
 /* sticky footer (http://stackoverflow.com/questions/4575826/how-to-push-a-footer-to-the-bottom-of-page-when-content-is-short-or-missing) */
 html, body {
   height: 100%;
