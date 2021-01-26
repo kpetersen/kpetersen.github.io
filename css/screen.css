@@ -254,10 +254,10 @@ h2 {
 }
 
 /* avoid wasting 2/3 of the first page on frogs */
-@media print {
-  #header {
-    display: none !important;
-  }
+@media only print {
+    #header img, #nav {
+        display: none !important;
+    }
 }
 
 /* sticky footer (http://stackoverflow.com/questions/4575826/how-to-push-a-footer-to-the-bottom-of-page-when-content-is-short-or-missing) */
